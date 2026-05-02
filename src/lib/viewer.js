@@ -1,10 +1,26 @@
 export const TIER_ORDER = ['X', 'S+', 'S', 'A+', 'A', 'B+', 'B', 'C+', 'C', 'D+', 'D', 'E+', 'E'];
+export const BIT_TIER_ORDER = ['T0', 'T1', 'T2', 'T3', 'T4', 'T5'];
 
 export function tierRank(tier) {
   if (!tier) return -1;
   const value = String(tier).trim().toUpperCase();
   const index = TIER_ORDER.indexOf(value);
   return index >= 0 ? 100 - index : 0;
+}
+
+export function tierRankForPart(part) {
+  if (!part?.tier) return -1;
+
+  const value = String(part.tier).trim().toUpperCase();
+
+  if (part.type === 'bit') {
+    const index = BIT_TIER_ORDER.indexOf(value);
+    if (index >= 0) return 100 - index;
+    // Unknown non-empty bit tiers are kept below known T0-T5 but above empty.
+    return 1;
+  }
+
+  return tierRank(value);
 }
 
 export function scorePart(part, query) {
@@ -32,7 +48,7 @@ export function sortRows(rows, mode) {
 
   if (mode === 'tier-desc') {
     return out.sort((a, b) =>
-      tierRank(b.part.tier) - tierRank(a.part.tier)
+      tierRankForPart(b.part) - tierRankForPart(a.part)
       || b.score - a.score
       || a.part.abbr.localeCompare(b.part.abbr)
     );
@@ -40,8 +56,8 @@ export function sortRows(rows, mode) {
 
   if (mode === 'tier-asc') {
     return out.sort((a, b) => {
-      const ra = tierRank(a.part.tier);
-      const rb = tierRank(b.part.tier);
+      const ra = tierRankForPart(a.part);
+      const rb = tierRankForPart(b.part);
       if (ra < 0 && rb < 0) return a.part.abbr.localeCompare(b.part.abbr);
       if (ra < 0) return 1;
       if (rb < 0) return -1;
