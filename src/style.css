@@ -36,6 +36,27 @@ p {
   gap: 8px;
 }
 
+.filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #475569;
+  border-radius: 999px;
+  background: #111c33;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.filter-pill input {
+  accent-color: #38bdf8;
+}
+
 .controls select {
   height: 36px;
   border-radius: 8px;
@@ -78,6 +99,12 @@ input[type='search']:focus {
   padding: 12px;
   display: grid;
   gap: 4px;
+}
+
+.cards li.empty-state {
+  color: #94a3b8;
+  text-align: center;
+  padding: 18px 12px;
 }
 .cards strong {
   color: #f8fafc;

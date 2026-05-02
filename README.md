@@ -42,4 +42,11 @@ cp public/data/display-data.json bladex/public/data/display-data.json
 2. In repository settings, open `Pages` and set source to **GitHub Actions**.
 3. The included workflow at `.github/workflows/deploy.yml` will build and deploy on every push to `main`.
 
+## Current viewer features
+
+- full dataset loaded from `public/data/display-data.json`
+- search by code/name/tier tokens
+- sort by relevance, tier, or code
+- type filters for `blade`, `bit`, and `ratchet`
+
 
