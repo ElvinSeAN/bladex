@@ -35,6 +35,15 @@ p {
   display: grid;
   gap: 8px;
 }
+
+.controls select {
+  height: 36px;
+  border-radius: 8px;
+  border: 1px solid #475569;
+  background: #0f172a;
+  color: #e2e8f0;
+  padding: 0 10px;
+}
 label {
   color: #cbd5e1;
   font-size: 0.9rem;
@@ -75,6 +84,10 @@ input[type='search']:focus {
 }
 .cards span {
   color: #cbd5e1;
+}
+
+.cards small {
+  color: #94a3b8;
 }
 .cards em {
   color: #facc15;

@@ -1,0 +1,8659 @@
+[
+  {
+    "id": "blade-一體-DrSt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "DrSt",
+    "nameJap": "ドランストライク",
+    "nameEng": "DranStrike",
+    "nameChi": "蒼龍突擊",
+    "nameAka": "",
+    "stat": [
+      "41+"
+    ],
+    "desc": "金屬連接至中央能提高剛性；重量級的六枚刃作強烈連打攻擊。",
+    "attr": [
+      "att",
+      "right",
+      "expand"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DrSt",
+      "drst",
+      "blade",
+      "bx",
+      "dranstrike",
+      "dran",
+      "strike",
+      "ドランストライク",
+      "蒼龍突擊",
+      "att",
+      "right",
+      "expand"
+    ]
+  },
+  {
+    "id": "blade-一體-BlGr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "BlGr",
+    "nameJap": "バレットグリフォン",
+    "nameEng": "Bullet Griffon",
+    "nameChi": "彈丸 獅鷲 子彈 獅鷲",
+    "nameAka": "",
+    "stat": [
+      "61-"
+    ],
+    "desc": "對戰中分身成內藏平坦軸端以跑動來攻擊對手的「子彈」、及以防禦性能優秀的圓形來抵耐對手攻擊的「本體」。（勝負以本體判定）",
+    "attr": [
+      "bal",
+      "right",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "BlGr",
+      "blgr",
+      "blade",
+      "ux",
+      "bullet griffon",
+      "bullet",
+      "griffon",
+      "バレットグリフォン",
+      "彈丸 獅鷲 子彈 獅鷲",
+      "彈丸",
+      "獅鷲",
+      "子彈",
+      "bal",
+      "right",
+      "fused"
+    ]
+  },
+  {
+    "id": "blade-一體-OrCl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "OrCl",
+    "nameJap": "オロチクラスタ",
+    "nameEng": "OrochiCluster",
+    "nameChi": "",
+    "nameAka": "大蛇",
+    "stat": [
+      "36+"
+    ],
+    "desc": "在兩處大幅度凸出的六枚刃特化於以連打及強擊把對手撞飛。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "OrCl",
+      "orcl",
+      "blade",
+      "ux",
+      "orochicluster",
+      "orochi",
+      "cluster",
+      "オロチクラスタ",
+      "大蛇",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-MmCr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "MmCr",
+    "nameJap": "マミーカース",
+    "nameEng": "MummyCurse",
+    "nameChi": "木乃伊/詛咒 古屍詛咒",
+    "nameAka": "",
+    "stat": [
+      "37+"
+    ],
+    "desc": "依迴轉速度變形：初段時彈出Counter刃作反擊、後段時以近圓形狀防守到尾。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "MmCr",
+      "mmcr",
+      "blade",
+      "ux",
+      "mummycurse",
+      "mummy",
+      "curse",
+      "マミーカース",
+      "木乃伊/詛咒 古屍詛咒",
+      "木乃伊/詛咒",
+      "古屍詛咒",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-MtDg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "MtDg",
+    "nameJap": "メテオドラグーン",
+    "nameEng": "Meteor Dragoon",
+    "nameChi": "隕石 青龍 隕星 龍騎士",
+    "nameAka": "",
+    "stat": [
+      "39="
+    ],
+    "desc": "搭載大型橡膠的三枚刃不斷作出強烈一擊。",
+    "attr": [
+      "att",
+      "left",
+      "bsb",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "MtDg",
+      "mtdg",
+      "blade",
+      "ux",
+      "meteor dragoon",
+      "meteor",
+      "dragoon",
+      "メテオドラグーン",
+      "隕石 青龍 隕星 龍騎士",
+      "隕石",
+      "青龍",
+      "隕星",
+      "龍騎士",
+      "att",
+      "left",
+      "bsb",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-ClMr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ClMr",
+    "nameJap": "クロックミラージュ",
+    "nameEng": "ClockMirage",
+    "nameChi": "時鐘幽景 時鐘幻象",
+    "nameAka": "",
+    "stat": [
+      "38-"
+    ],
+    "desc": "產生驚異持久力的圓盤形狀六十枚刃，特化於長時間持續迴轉。",
+    "attr": [
+      "sta",
+      "right",
+      "mfb",
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ClMr",
+      "clmr",
+      "blade",
+      "ux",
+      "clockmirage",
+      "clock",
+      "mirage",
+      "クロックミラージュ",
+      "時鐘幽景 時鐘幻象",
+      "時鐘幽景",
+      "時鐘幻象",
+      "sta",
+      "right",
+      "mfb",
+      "simple"
+    ]
+  },
+  {
+    "id": "blade-一體-SmCl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "SmCl",
+    "nameJap": "サムライカリバー",
+    "nameEng": "SamuraiCalibur",
+    "nameChi": "武士聖劍 武士魂斬",
+    "nameAka": "",
+    "stat": [
+      "36-"
+    ],
+    "desc": "一併擁有角度不同的大型刃及小型刃，在水平時發揮防禦、傾斜時發揮攻擊性能。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "SmCl",
+      "smcl",
+      "blade",
+      "bx",
+      "samuraicalibur",
+      "samurai",
+      "calibur",
+      "サムライカリバー",
+      "武士聖劍 武士魂斬",
+      "武士聖劍",
+      "武士魂斬",
+      "bal",
+      "right",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "blade-一體-ShSc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ShSc",
+    "nameJap": "シャークスケイル",
+    "nameEng": "SharkScale",
+    "nameChi": "烈鯊鱗甲 鮫鯊狂鱗",
+    "nameAka": "",
+    "stat": [
+      "37+"
+    ],
+    "desc": "備有多數打擊部位的大型兩枚刃，特化於從低位置的強烈Upper攻擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ShSc",
+      "shsc",
+      "blade",
+      "ux",
+      "sharkscale",
+      "shark",
+      "scale",
+      "シャークスケイル",
+      "烈鯊鱗甲 鮫鯊狂鱗",
+      "烈鯊鱗甲",
+      "鮫鯊狂鱗",
+      "att",
+      "right",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "blade-一體-TrPr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "TrPr",
+    "nameJap": "トリケラプレス",
+    "nameEng": "TriceraPress",
+    "nameChi": "三角龍壓 三角強襲",
+    "nameAka": "",
+    "stat": [
+      "36+"
+    ],
+    "desc": "擁有大型Launcher hook的内重心構造，受到攻擊也難以被撞飛。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "TrPr",
+      "trpr",
+      "blade",
+      "bx",
+      "tricerapress",
+      "tricera",
+      "press",
+      "トリケラプレス",
+      "三角龍壓 三角強襲",
+      "三角龍壓",
+      "三角強襲",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-ScSp",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ScSp",
+    "nameJap": "スコーピオスピア",
+    "nameEng": "ScorpioSpear",
+    "nameChi": "毒蠍刺槍 天蠍長矛",
+    "nameAka": "",
+    "stat": [
+      "40-"
+    ],
+    "desc": "X Dash時從高化解性防禦性能的圓形六枚刃變形至高攻擊性能的三枚刃。（只能以六枚刃發射）",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ScSp",
+      "scsp",
+      "blade",
+      "ux",
+      "scorpiospear",
+      "scorpio",
+      "spear",
+      "スコーピオスピア",
+      "毒蠍刺槍 天蠍長矛",
+      "毒蠍刺槍",
+      "天蠍長矛",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-ShDr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "ShDr",
+    "nameJap": "シェルタードレイク",
+    "nameEng": "Shelter Drake",
+    "nameChi": "神護 魔龍 護城 龍神",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "高剛性圓形的兩枚刃既有離心力持久亦有卸走性防禦。",
+    "attr": [
+      "bal",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ShDr",
+      "shdr",
+      "blade",
+      "bx",
+      "shelter drake",
+      "shelter",
+      "drake",
+      "シェルタードレイク",
+      "神護 魔龍 護城 龍神",
+      "神護",
+      "魔龍",
+      "護城",
+      "龍神",
+      "bal",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-GlRc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "GlRc",
+    "nameJap": "ゴーレムロック",
+    "nameEng": "GolemRock",
+    "nameChi": "魔像巨石 魔像奇岩",
+    "nameAka": "",
+    "stat": [
+      "34="
+    ],
+    "desc": "一併擁有能抵擋對手攻擊的連打形狀側面、及於傾側時撞擊對手的向上打擊面。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "GlRc",
+      "glrc",
+      "blade",
+      "ux",
+      "golemrock",
+      "golem",
+      "rock",
+      "ゴーレムロック",
+      "魔像巨石 魔像奇岩",
+      "魔像巨石",
+      "魔像奇岩",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-GhCr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "GhCr",
+    "nameJap": "ゴーストサークル",
+    "nameEng": "GhostCircle",
+    "nameChi": "幽靈圓環 幽靈元魂",
+    "nameAka": "",
+    "stat": [
+      "27-"
+    ],
+    "desc": "小徑零枚刃受對手攻擊時減輕持久損失。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "GhCr",
+      "ghcr",
+      "blade",
+      "ux",
+      "ghostcircle",
+      "ghost",
+      "circle",
+      "ゴーストサークル",
+      "幽靈圓環 幽靈元魂",
+      "幽靈圓環",
+      "幽靈元魂",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-ImDr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ImDr",
+    "nameJap": "インパクトドレイク",
+    "nameEng": "Impact Drake",
+    "nameChi": "衝擊 魔龍 衝擊 龍神",
+    "nameAka": "",
+    "stat": [
+      "39-"
+    ],
+    "desc": "在厚四枚刃配備的橡膠帶來的摩擦力及反發力，特化於把對手撞飛。",
+    "attr": [
+      "att",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ImDr",
+      "imdr",
+      "blade",
+      "ux",
+      "impact drake",
+      "impact",
+      "drake",
+      "インパクトドレイク",
+      "衝擊 魔龍 衝擊 龍神",
+      "衝擊",
+      "魔龍",
+      "龍神",
+      "att",
+      "right",
+      "bsb",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "blade-一體-KnMl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "KnMl",
+    "nameJap": "ナイトメイル",
+    "nameEng": "KnightMail",
+    "nameChi": "騎士護甲 騎士圓甲",
+    "nameAka": "",
+    "stat": [
+      "37-"
+    ],
+    "desc": "圓形十二枚刃中内藏的三顆金屬球能上下移動，緩和衝擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "KnMl",
+      "knml",
+      "blade",
+      "ux",
+      "knightmail",
+      "knight",
+      "mail",
+      "ナイトメイル",
+      "騎士護甲 騎士圓甲",
+      "騎士護甲",
+      "騎士圓甲",
+      "def",
+      "right",
+      "a+",
+      "tier:a+",
+      "tier-a+"
+    ],
+    "tier": "A+"
+  },
+  {
+    "id": "blade-一體-SmSb",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "SmSb",
+    "nameJap": "サムライセイバー",
+    "nameEng": "SamuraiSaber",
+    "nameChi": "武士之刃 武士星劍",
+    "nameAka": "",
+    "stat": [
+      "36+"
+    ],
+    "desc": "小型金屬刃能開關，依擊中對手的方式而改變攻擊力。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "SmSb",
+      "smsb",
+      "blade",
+      "ux",
+      "samuraisaber",
+      "samurai",
+      "saber",
+      "サムライセイバー",
+      "武士之刃 武士星劍",
+      "武士之刃",
+      "武士星劍",
+      "att",
+      "right",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "blade-一體-CrGr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "CrGr",
+    "nameJap": "クリムゾンガルーダ",
+    "nameEng": "Crimson Garuda",
+    "nameChi": "緋紅 迦樓羅 赫燃 天鳳",
+    "nameAka": "",
+    "stat": [
+      "35="
+    ],
+    "desc": "上下擁有不同的性能：上面擅於少持久損失的攻擊、下面擅於反擊。",
+    "attr": [
+      "bal",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "CrGr",
+      "crgr",
+      "blade",
+      "bx",
+      "crimson garuda",
+      "crimson",
+      "garuda",
+      "クリムゾンガルーダ",
+      "緋紅 迦樓羅 赫燃 天鳳",
+      "緋紅",
+      "迦樓羅",
+      "赫燃",
+      "天鳳",
+      "bal",
+      "right",
+      "bsb",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-SlWl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "SlWl",
+    "nameJap": "シルバーウルフ",
+    "nameEng": "Silver Wolf",
+    "nameChi": "白銀 戰狼 霜輝 銀狼",
+    "nameAka": "",
+    "stat": [
+      "37="
+    ],
+    "desc": "下部的Free Ring能迴轉，卸走對手攻擊以維持迴轉力。",
+    "attr": [
+      "sta",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "SlWl",
+      "slwl",
+      "blade",
+      "ux",
+      "silver wolf",
+      "silver",
+      "wolf",
+      "シルバーウルフ",
+      "白銀 戰狼 霜輝 銀狼",
+      "白銀",
+      "戰狼",
+      "霜輝",
+      "銀狼",
+      "sta",
+      "right",
+      "bsb",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "blade-一體-WhWv",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "WhWv",
+    "nameJap": "ホエールウェーブ",
+    "nameEng": "WhaleWave",
+    "nameChi": "戰鯨波浪 巨鯨怒濤",
+    "nameAka": "",
+    "stat": [
+      "38="
+    ],
+    "desc": "大徑幅且具離心力的Smash五枚刃，如籠罩對手地連打。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WhWv",
+      "whwv",
+      "blade",
+      "bx",
+      "whalewave",
+      "whale",
+      "wave",
+      "ホエールウェーブ",
+      "戰鯨波浪 巨鯨怒濤",
+      "戰鯨波浪",
+      "巨鯨怒濤",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-ArPg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ArPg",
+    "nameJap": "エアロペガサス",
+    "nameEng": "Aero Pegasus",
+    "nameChi": "翔空 天馬 空力 天馬",
+    "nameAka": "",
+    "stat": [
+      "39-"
+    ],
+    "desc": "大型三枚刃産生高打擊力。",
+    "attr": [
+      "att",
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ArPg",
+      "arpg",
+      "blade",
+      "ux",
+      "aero pegasus",
+      "aero",
+      "pegasus",
+      "エアロペガサス",
+      "翔空 天馬 空力 天馬",
+      "翔空",
+      "天馬",
+      "空力",
+      "att",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-LnCr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "LnCr",
+    "nameJap": "レオンクレスト",
+    "nameEng": "LeonCrest",
+    "nameChi": "獅王徽章 雄獅巔峰",
+    "nameAka": "",
+    "stat": [
+      "35="
+    ],
+    "desc": "垂直高聳形狀的厚七枚刃，防禦從任何方向而來的攻擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "LnCr",
+      "lncr",
+      "blade",
+      "ux",
+      "leoncrest",
+      "leon",
+      "crest",
+      "レオンクレスト",
+      "獅王徽章 雄獅巔峰",
+      "獅王徽章",
+      "雄獅巔峰",
+      "def",
+      "right",
+      "s+",
+      "tier:s+",
+      "tier-s+"
+    ],
+    "tier": "S+"
+  },
+  {
+    "id": "blade-一體-PhRd",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "PhRd",
+    "nameJap": "フェニックスラダー",
+    "nameEng": "PhoenixRudder",
+    "nameChi": "鳳凰炎舵 鳳凰尾翼",
+    "nameAka": "",
+    "stat": [
+      "35-"
+    ],
+    "desc": "凸出的逆台形六枚刃由上壓向對手並削弱持久力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "PhRd",
+      "phrd",
+      "blade",
+      "ux",
+      "phoenixrudder",
+      "phoenix",
+      "rudder",
+      "フェニックスラダー",
+      "鳳凰炎舵 鳳凰尾翼",
+      "鳳凰炎舵",
+      "鳳凰尾翼",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-BlSh",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "BlSh",
+    "nameJap": "ブラックシェル",
+    "nameEng": "Black Shell",
+    "nameChi": "漆黑 護殼 玄冥 戰甲",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "設於外周並向下傾斜的八枚防禦刃，抵禦從低位置而來的攻擊。",
+    "attr": [
+      "def",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "BlSh",
+      "blsh",
+      "blade",
+      "bx",
+      "black shell",
+      "black",
+      "shell",
+      "ブラックシェル",
+      "漆黑 護殼 玄冥 戰甲",
+      "漆黑",
+      "護殼",
+      "玄冥",
+      "戰甲",
+      "def",
+      "right",
+      "bsb",
+      "s+",
+      "tier:s+",
+      "tier-s+"
+    ],
+    "tier": "S+"
+  },
+  {
+    "id": "blade-一體-CbDg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "CbDg",
+    "nameJap": "コバルトドラグーン",
+    "nameEng": "Cobalt Dragoon",
+    "nameChi": "鈷藍 青龍 蒼穹 龍騎士",
+    "nameAka": "",
+    "stat": [
+      "38-"
+    ],
+    "desc": "尖端厚的四枚Upper刃擁有高撞擊性能。",
+    "attr": [
+      "att",
+      "left",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "CbDg",
+      "cbdg",
+      "blade",
+      "bx",
+      "cobalt dragoon",
+      "cobalt",
+      "dragoon",
+      "コバルトドラグーン",
+      "鈷藍 青龍 蒼穹 龍騎士",
+      "鈷藍",
+      "青龍",
+      "蒼穹",
+      "龍騎士",
+      "att",
+      "left",
+      "bsb",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "blade-一體-WsTg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "WsTg",
+    "nameJap": "ヴァイスタイガー",
+    "nameEng": "Weiss Tiger",
+    "nameChi": "純白 猛虎 皓戰 猛虎",
+    "nameAka": "",
+    "stat": [
+      "35-"
+    ],
+    "desc": "一併持有Upper刃、Damper刃及Smash刃三種性能。",
+    "attr": [
+      "bal",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WsTg",
+      "wstg",
+      "blade",
+      "bx",
+      "weiss tiger",
+      "weiss",
+      "tiger",
+      "ヴァイスタイガー",
+      "純白 猛虎 皓戰 猛虎",
+      "純白",
+      "猛虎",
+      "皓戰",
+      "bal",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-ShSh",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "ShSh",
+    "nameJap": "シノビシャドウ",
+    "nameEng": "ShinobiShadow",
+    "nameChi": "忍者幻影 忍者闇影",
+    "nameAka": "",
+    "stat": [
+      "28="
+    ],
+    "desc": "圓滑三枚刃形狀特化於把對手攻擊卸走。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ShSh",
+      "shsh",
+      "blade",
+      "ux",
+      "shinobishadow",
+      "shinobi",
+      "shadow",
+      "シノビシャドウ",
+      "忍者幻影 忍者闇影",
+      "忍者幻影",
+      "忍者闇影",
+      "def",
+      "right",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "blade-一體-TyBt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "TyBt",
+    "nameJap": "ティラノビート",
+    "nameEng": "TyrannoBeat",
+    "nameChi": "暴龍節拍 暴龍霸擊",
+    "nameAka": "",
+    "stat": [
+      "37="
+    ],
+    "desc": "上下方向都呈鋸齒狀又突出的厚八枚刃，擅於給予不規則的打擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "TyBt",
+      "tybt",
+      "blade",
+      "bx",
+      "tyrannobeat",
+      "tyranno",
+      "beat",
+      "ティラノビート",
+      "暴龍節拍 暴龍霸擊",
+      "暴龍節拍",
+      "暴龍霸擊",
+      "att",
+      "right",
+      "a+",
+      "tier:a+",
+      "tier-a+"
+    ],
+    "tier": "A+"
+  },
+  {
+    "id": "blade-一體-WzRd",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "WzRd",
+    "nameJap": "ウィザードロッド",
+    "nameEng": "WizardRod",
+    "nameChi": "巫師幻杖 魔導神杖",
+    "nameAka": "",
+    "stat": [
+      "35+"
+    ],
+    "desc": "外重心又大徑幅的五枚刃形狀，特化於産生離心力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WzRd",
+      "wzrd",
+      "blade",
+      "ux",
+      "wizardrod",
+      "wizard",
+      "rod",
+      "ウィザードロッド",
+      "巫師幻杖 魔導神杖",
+      "巫師幻杖",
+      "魔導神杖",
+      "sta",
+      "right",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "blade-一體-HlHm",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "HlHm",
+    "nameJap": "ヘルズハンマー",
+    "nameEng": "HellsHammer",
+    "nameChi": "煉獄惡鎚 惡魔戰鎚",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "有厚度的Smash刃特化於把對手砸向對戰盤。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "HlHm",
+      "hlhm",
+      "blade",
+      "ux",
+      "hellshammer",
+      "hells",
+      "hammer",
+      "ヘルズハンマー",
+      "煉獄惡鎚 惡魔戰鎚",
+      "煉獄惡鎚",
+      "惡魔戰鎚",
+      "bal",
+      "right",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "blade-一體-DrBs",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "DrBs",
+    "nameJap": "ドランバスター",
+    "nameEng": "DranBuster",
+    "nameChi": "翔龍破壞劍 蒼龍爆刃",
+    "nameAka": "",
+    "stat": [
+      "37-"
+    ],
+    "desc": "突出的大型攻擊刃，特法於一擊撞飛對手。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DrBs",
+      "drbs",
+      "blade",
+      "ux",
+      "dranbuster",
+      "dran",
+      "buster",
+      "ドランバスター",
+      "翔龍破壞劍 蒼龍爆刃",
+      "翔龍破壞劍",
+      "蒼龍爆刃",
+      "att",
+      "right",
+      "s+",
+      "tier:s+",
+      "tier-s+"
+    ],
+    "tier": "S+"
+  },
+  {
+    "id": "blade-一體-SpCw",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "SpCw",
+    "nameJap": "スフィンクスカウル",
+    "nameEng": "SphinxCowl",
+    "nameChi": "史芬克斯/斗篷 幻神護甲",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "以圓形配置的連打九枚刃把從各個方向而來的攻擊都分散及撞回。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "SpCw",
+      "spcw",
+      "blade",
+      "bx",
+      "sphinxcowl",
+      "sphinx",
+      "cowl",
+      "スフィンクスカウル",
+      "史芬克斯/斗篷 幻神護甲",
+      "史芬克斯/斗篷",
+      "幻神護甲",
+      "def",
+      "right",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "blade-一體-UnSt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "UnSt",
+    "nameJap": "ユニコーンスティング",
+    "nameEng": "UnicornSting",
+    "nameChi": "獨角幻刺 獨角刺心",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "左右的刃形狀有巨大差異，一併持有攻擊及防禦構造。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "UnSt",
+      "unst",
+      "blade",
+      "bx",
+      "unicornsting",
+      "unicorn",
+      "sting",
+      "ユニコーンスティング",
+      "獨角幻刺 獨角刺心",
+      "獨角幻刺",
+      "獨角刺心",
+      "bal",
+      "right",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "blade-一體-WyGl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "WyGl",
+    "nameJap": "ワイバーンゲイル",
+    "nameEng": "WyvernGale",
+    "nameChi": "飛龍狂風 飛龍旋翼",
+    "nameAka": "",
+    "stat": [
+      "32="
+    ],
+    "desc": "流線形狀四枚刃減低空氣抵抗，擅於持續迴轉。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WyGl",
+      "wygl",
+      "blade",
+      "bx",
+      "wyverngale",
+      "wyvern",
+      "gale",
+      "ワイバーンゲイル",
+      "飛龍狂風 飛龍旋翼",
+      "飛龍狂風",
+      "飛龍旋翼",
+      "sta",
+      "right",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-PhWn",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "PhWn",
+    "nameJap": "フェニックスウイング",
+    "nameEng": "PhoenixWing",
+    "nameChi": "鳳凰飛翼",
+    "nameAka": "",
+    "stat": [
+      "39-"
+    ],
+    "desc": "厚重三枚刃強烈撞向對手。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "PhWn",
+      "phwn",
+      "blade",
+      "bx",
+      "phoenixwing",
+      "phoenix",
+      "wing",
+      "フェニックスウイング",
+      "鳳凰飛翼",
+      "att",
+      "right",
+      "s+",
+      "tier:s+",
+      "tier-s+"
+    ],
+    "tier": "S+"
+  },
+  {
+    "id": "blade-一體-PhFt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "PhFt",
+    "nameJap": "フェニックスフェザー",
+    "nameEng": "PhoenixFeather",
+    "nameChi": "鳳凰炎羽 鳳凰翔羽",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "三枚輕量Upper刃産生高速攻擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": "DrSw",
+    "searchTokens": [
+      "PhFt",
+      "phft",
+      "blade",
+      "bx",
+      "phoenixfeather",
+      "phoenix",
+      "feather",
+      "フェニックスフェザー",
+      "鳳凰炎羽 鳳凰翔羽",
+      "鳳凰炎羽",
+      "鳳凰翔羽",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-DrDg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "DrDg",
+    "nameJap": "ドランダガー",
+    "nameEng": "DranDagger",
+    "nameChi": "翔龍雙刃 蒼龍利刃",
+    "nameAka": "",
+    "stat": [
+      "35="
+    ],
+    "desc": "六枚攻擊刃擅於連打對手。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DrDg",
+      "drdg",
+      "blade",
+      "bx",
+      "drandagger",
+      "dran",
+      "dagger",
+      "ドランダガー",
+      "翔龍雙刃 蒼龍利刃",
+      "翔龍雙刃",
+      "蒼龍利刃",
+      "att",
+      "right",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-DrSw",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "DrSw",
+    "nameJap": "ドランソード",
+    "nameEng": "DranSword",
+    "nameChi": "翔龍神劍 蒼龍神劍",
+    "nameAka": "",
+    "stat": [
+      "35-"
+    ],
+    "desc": "三攻Upper刃擅於把對手向斜上方撞飛。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DrSw",
+      "drsw",
+      "blade",
+      "bx",
+      "dransword",
+      "dran",
+      "sword",
+      "ドランソード",
+      "翔龍神劍 蒼龍神劍",
+      "翔龍神劍",
+      "蒼龍神劍",
+      "att",
+      "right",
+      "a+",
+      "tier:a+",
+      "tier-a+"
+    ],
+    "tier": "A+"
+  },
+  {
+    "id": "blade-一體-HlCh",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "HlCh",
+    "nameJap": "ヘルズチェイン",
+    "nameEng": "HellsChain",
+    "nameChi": "煉獄鎖鏈 惡魔鎖鏈",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "性能依高度變化：有化解性下段刃及撞擊性上段刃的二層構造設計。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "HlCh",
+      "hlch",
+      "blade",
+      "bx",
+      "hellschain",
+      "hells",
+      "chain",
+      "ヘルズチェイン",
+      "煉獄鎖鏈 惡魔鎖鏈",
+      "煉獄鎖鏈",
+      "惡魔鎖鏈",
+      "bal",
+      "right",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "blade-一體-HlSc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "HlSc",
+    "nameJap": "ヘルズサイズ",
+    "nameEng": "HellsScythe",
+    "nameChi": "煉獄魔鐮 惡魔紅鐮",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "四枚Smash刃擅於令對手姿勢崩倒。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "HlSc",
+      "hlsc",
+      "blade",
+      "bx",
+      "hellsscythe",
+      "hells",
+      "scythe",
+      "ヘルズサイズ",
+      "煉獄魔鐮 惡魔紅鐮",
+      "煉獄魔鐮",
+      "惡魔紅鐮",
+      "bal",
+      "right",
+      "a+",
+      "tier:a+",
+      "tier-a+"
+    ],
+    "tier": "A+"
+  },
+  {
+    "id": "blade-一體-WzAr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "WzAr",
+    "nameJap": "ウィザードアロー",
+    "nameEng": "WizardArrow",
+    "nameChi": "巫師弩箭 魔導幻箭",
+    "nameAka": "",
+    "stat": [
+      "32="
+    ],
+    "desc": "兩枚大型圓形刃為産生強離心力的外重心設計。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WzAr",
+      "wzar",
+      "blade",
+      "bx",
+      "wizardarrow",
+      "wizard",
+      "arrow",
+      "ウィザードアロー",
+      "巫師弩箭 魔導幻箭",
+      "巫師弩箭",
+      "魔導幻箭",
+      "sta",
+      "right",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-KnSh",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "KnSh",
+    "nameJap": "ナイトシールド",
+    "nameEng": "KnightShield",
+    "nameChi": "騎士護盾 騎士重盾",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "採用容易以六枚防禦刃吸收衝擊的阻尼器構造。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "KnSh",
+      "knsh",
+      "blade",
+      "bx",
+      "knightshield",
+      "knight",
+      "shield",
+      "ナイトシールド",
+      "騎士護盾 騎士重盾",
+      "騎士護盾",
+      "騎士重盾",
+      "def",
+      "right",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-KnLn",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "KnLn",
+    "nameJap": "ナイトランス",
+    "nameEng": "KnightLance",
+    "nameChi": "騎士長槍",
+    "nameAka": "",
+    "stat": [
+      "33="
+    ],
+    "desc": "刃的位置在高處的設計擅於壓制對手的攻擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "KnLn",
+      "knln",
+      "blade",
+      "bx",
+      "knightlance",
+      "knight",
+      "lance",
+      "ナイトランス",
+      "騎士長槍",
+      "def",
+      "right",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "blade-一體-RhHr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "RhHr",
+    "nameJap": "ライノホーン",
+    "nameEng": "RhinoHorn",
+    "nameChi": "犀牛號角 戰犀號角",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "金屬凝縮在内側的内重心構造，令姿勢受到強衝擊也難以崩倒。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "RhHr",
+      "rhhr",
+      "blade",
+      "bx",
+      "rhinohorn",
+      "rhino",
+      "horn",
+      "ライノホーン",
+      "犀牛號角 戰犀號角",
+      "犀牛號角",
+      "戰犀號角",
+      "def",
+      "right",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "blade-一體-ShEd",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "ShEd",
+    "nameJap": "シャークエッジ",
+    "nameEng": "SharkEdge",
+    "nameChi": "烈鯊利刃 鮫鯊鋒鰭",
+    "nameAka": "",
+    "stat": [
+      "35-"
+    ],
+    "desc": "急角度的Upper刃潛入對手身内，能從低位置向上撞。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ShEd",
+      "shed",
+      "blade",
+      "bx",
+      "sharkedge",
+      "shark",
+      "edge",
+      "シャークエッジ",
+      "烈鯊利刃 鮫鯊鋒鰭",
+      "烈鯊利刃",
+      "鮫鯊鋒鰭",
+      "att",
+      "right",
+      "b+",
+      "tier:b+",
+      "tier-b+"
+    ],
+    "tier": "B+"
+  },
+  {
+    "id": "blade-一體-LnCl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "LnCl",
+    "nameJap": "レオンクロー",
+    "nameEng": "LeonClaw",
+    "nameChi": "獅王鋭爪 雄獅獵爪",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "一併持有攻擊刃及防禦刃，可用不同發射方法分別使用不同性能。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "LnCl",
+      "lncl",
+      "blade",
+      "bx",
+      "leonclaw",
+      "leon",
+      "claw",
+      "レオンクロー",
+      "獅王鋭爪 雄獅獵爪",
+      "獅王鋭爪",
+      "雄獅獵爪",
+      "bal",
+      "right",
+      "a+",
+      "tier:a+",
+      "tier-a+"
+    ],
+    "tier": "A+"
+  },
+  {
+    "id": "blade-一體-VpTl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "VpTl",
+    "nameJap": "ヴァイパーテイル",
+    "nameEng": "ViperTail",
+    "nameChi": "毒蛇靈尾 王蛇鞭尾",
+    "nameAka": "",
+    "stat": [
+      "35-"
+    ],
+    "desc": "向下尖鋭的六枚刃擅於從上方削去對手的持久力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "VpTl",
+      "vptl",
+      "blade",
+      "bx",
+      "vipertail",
+      "viper",
+      "tail",
+      "ヴァイパーテイル",
+      "毒蛇靈尾 王蛇鞭尾",
+      "毒蛇靈尾",
+      "王蛇鞭尾",
+      "sta",
+      "right",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "blade-一體-CbDr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "CbDr",
+    "nameJap": "コバルトドレイク",
+    "nameEng": "Cobalt Drake",
+    "nameChi": "鈷藍 魔龍 蒼穹 龍神",
+    "nameAka": "",
+    "stat": [
+      "38-"
+    ],
+    "desc": "四枚大型龍型刃撞飛對手。",
+    "attr": [
+      "att",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "CbDr",
+      "cbdr",
+      "blade",
+      "bx",
+      "cobalt drake",
+      "cobalt",
+      "drake",
+      "コバルトドレイク",
+      "鈷藍 魔龍 蒼穹 龍神",
+      "鈷藍",
+      "魔龍",
+      "蒼穹",
+      "龍神",
+      "att",
+      "right",
+      "bsb",
+      "s+",
+      "tier:s+",
+      "tier-s+"
+    ],
+    "tier": "S+"
+  },
+  {
+    "id": "blade-一體-ShKn",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "ShKn",
+    "nameJap": "シノビナイフ",
+    "nameEng": "ShinobiKnife",
+    "nameChi": "忍者刺刀",
+    "nameAka": "",
+    "stat": [
+      "31="
+    ],
+    "desc": "小徑及高剛性内重心構造，容易抵禦對手衝擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "ShKn",
+      "shkn",
+      "blade",
+      "bx",
+      "shinobiknife",
+      "shinobi",
+      "knife",
+      "シノビナイフ",
+      "忍者刺刀",
+      "def",
+      "right",
+      "c+",
+      "tier:c+",
+      "tier-c+"
+    ],
+    "tier": "C+"
+  },
+  {
+    "id": "blade-一體-SmSt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "SmSt",
+    "nameJap": "サムライスチール",
+    "nameEng": "SamuraiSteel",
+    "nameChi": "",
+    "nameAka": "武士鋼鐵",
+    "stat": [
+      "32-"
+    ],
+    "desc": "持有兩種不同性能的刃，可用發射方法分別使用攻擊及防禦。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": "LnCl",
+    "searchTokens": [
+      "SmSt",
+      "smst",
+      "blade",
+      "bx",
+      "samuraisteel",
+      "samurai",
+      "steel",
+      "サムライスチール",
+      "武士鋼鐵",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-PtSw",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "PtSw",
+    "nameJap": "プテラスイング",
+    "nameEng": "PteraSwing",
+    "nameChi": "翼龍波動 翼龍神翼",
+    "nameAka": "",
+    "stat": [
+      "34+"
+    ],
+    "desc": "向下方的鋸齒狀六枚刃，擅於消耗對手迴轉力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": "VpTl",
+    "searchTokens": [
+      "PtSw",
+      "ptsw",
+      "blade",
+      "bx",
+      "pteraswing",
+      "ptera",
+      "swing",
+      "プテラスイング",
+      "翼龍波動 翼龍神翼",
+      "翼龍波動",
+      "翼龍神翼",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-MmTs",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "MmTs",
+    "nameJap": "マンモスタスク",
+    "nameEng": "MammothTusk",
+    "nameChi": "狂象長牙 猛獁獠牙",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "Smash形狀四枚刃容易令對手傾側。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": "HlSc",
+    "searchTokens": [
+      "MmTs",
+      "mmts",
+      "blade",
+      "bx",
+      "mammothtusk",
+      "mammoth",
+      "tusk",
+      "マンモスタスク",
+      "狂象長牙 猛獁獠牙",
+      "狂象長牙",
+      "猛獁獠牙",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-BrSc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "BrSc",
+    "nameJap": "ベアスクラッチ",
+    "nameEng": "BearScratch",
+    "nameChi": "狂熊鋭爪 悍熊猛爪",
+    "nameAka": "",
+    "stat": [
+      "30+"
+    ],
+    "desc": "凝縮成小徑的内重心構造，受到衝擊姿勢也難以崩倒。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "BrSc",
+      "brsc",
+      "blade",
+      "bx",
+      "bearscratch",
+      "bear",
+      "scratch",
+      "ベアスクラッチ",
+      "狂熊鋭爪 悍熊猛爪",
+      "狂熊鋭爪",
+      "悍熊猛爪",
+      "def",
+      "right",
+      "c+",
+      "tier:c+",
+      "tier-c+"
+    ],
+    "tier": "C+"
+  },
+  {
+    "id": "blade-一體-CrCr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "CrCr",
+    "nameJap": "クロコクランチ",
+    "nameEng": "CrocoCrunch",
+    "nameChi": "",
+    "nameAka": "鱷魚",
+    "stat": [
+      "34-"
+    ],
+    "desc": "擅於從低位置Upper攻擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": "ShEd",
+    "searchTokens": [
+      "CrCr",
+      "crcr",
+      "blade",
+      "bx",
+      "crococrunch",
+      "croco",
+      "crunch",
+      "クロコクランチ",
+      "鱷魚",
+      "att",
+      "right",
+      "c+",
+      "tier:c+",
+      "tier-c+"
+    ],
+    "tier": "C+"
+  },
+  {
+    "id": "blade-一體-TyRr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "TyRr",
+    "nameJap": "ティラノロア",
+    "nameEng": "TyrannoRoar",
+    "nameChi": "暴龍咆哮",
+    "nameAka": "",
+    "stat": [
+      "36="
+    ],
+    "desc": "具重量的三枚刃擅於強力地撞走對手。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": "PhWn",
+    "searchTokens": [
+      "TyRr",
+      "tyrr",
+      "blade",
+      "bx",
+      "tyrannoroar",
+      "tyranno",
+      "roar",
+      "ティラノロア",
+      "暴龍咆哮",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-TrSp",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "TrSp",
+    "nameJap": "トリケラスパイキー",
+    "nameEng": "TriceraSpiky",
+    "nameChi": "",
+    "nameAka": "三角龍",
+    "stat": [
+      "30-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": "SpCw",
+    "searchTokens": [
+      "TrSp",
+      "trsp",
+      "blade",
+      "bx",
+      "triceraspiky",
+      "tricera",
+      "spiky",
+      "トリケラスパイキー",
+      "三角龍",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-GtTc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "GtTc",
+    "nameJap": "ゴートタックル",
+    "nameEng": "GoatTackle",
+    "nameChi": "凶羊截擊 戰羊阻截",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "向下的八枚刃擅於抵禦從低位置而來的攻擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": "BlSh",
+    "searchTokens": [
+      "GtTc",
+      "gttc",
+      "blade",
+      "bx",
+      "goattackle",
+      "goat",
+      "tackle",
+      "ゴートタックル",
+      "凶羊截擊 戰羊阻截",
+      "凶羊截擊",
+      "戰羊阻截",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-ShGl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "BX",
+    "group": "BX",
+    "abbr": "ShGl",
+    "nameJap": "シャークギル",
+    "nameEng": "SharkGill",
+    "nameChi": "烈鯊鰓刃 鮫鯊撕裂",
+    "nameAka": "",
+    "stat": [
+      "30="
+    ],
+    "desc": "滑順圓形兩枚刃卸開對手攻擊，提高持久力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": "ShDr",
+    "searchTokens": [
+      "ShGl",
+      "shgl",
+      "blade",
+      "bx",
+      "sharkgill",
+      "shark",
+      "gill",
+      "シャークギル",
+      "烈鯊鰓刃 鮫鯊撕裂",
+      "烈鯊鰓刃",
+      "鮫鯊撕裂",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-WyHv",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "UX",
+    "group": "UX",
+    "abbr": "WyHv",
+    "nameJap": "ワイバーンホバー",
+    "nameEng": "WyvernHover",
+    "nameChi": "",
+    "nameAka": "飛龍 翼龍",
+    "stat": [
+      "35+"
+    ],
+    "desc": "向下收窄的階梯構造，不論對手的形狀都擅於抵擋攻擊並從上方壓制。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "WyHv",
+      "wyhv",
+      "blade",
+      "ux",
+      "wyvernhover",
+      "wyvern",
+      "hover",
+      "ワイバーンホバー",
+      "飛龍 翼龍",
+      "飛龍",
+      "翼龍",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-一體-AgRm",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "AgRm",
+    "nameJap": "イージスランパート",
+    "nameEng": "AegisRampart",
+    "nameChi": "",
+    "nameAka": "護盾城牆",
+    "stat": [
+      ""
+    ],
+    "desc": "",
+    "attr": [
+      "UX",
+      "def",
+      "right",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "AgRm",
+      "agrm",
+      "blade",
+      "hasbro",
+      "aegisrampart",
+      "aegis",
+      "rampart",
+      "イージスランパート",
+      "護盾城牆",
+      "ux",
+      "def",
+      "right",
+      "fused"
+    ]
+  },
+  {
+    "id": "blade-一體-ShSr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "ShSr",
+    "nameJap": "シノビシュリケン",
+    "nameEng": "ShinobiShuriken",
+    "nameChi": "",
+    "nameAka": "忍者飛鏢 手裡劍",
+    "stat": [
+      ""
+    ],
+    "desc": "",
+    "attr": [
+      "UX",
+      "bal",
+      "right",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "ShSr",
+      "shsr",
+      "blade",
+      "hasbro",
+      "shinobishuriken",
+      "shinobi",
+      "shuriken",
+      "シノビシュリケン",
+      "忍者飛鏢 手裡劍",
+      "忍者飛鏢",
+      "手裡劍",
+      "ux",
+      "bal",
+      "right",
+      "fused"
+    ]
+  },
+  {
+    "id": "blade-一體-HvRn",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "HvRn",
+    "nameJap": "ヘブンズリング",
+    "nameEng": "HeavensRing",
+    "nameChi": "",
+    "nameAka": "光環",
+    "stat": [
+      ""
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX"
+    ],
+    "from": null,
+    "searchTokens": [
+      "HvRn",
+      "hvrn",
+      "blade",
+      "hasbro",
+      "heavensring",
+      "heavens",
+      "ring",
+      "ヘブンズリング",
+      "光環",
+      "def",
+      "right",
+      "bx"
+    ]
+  },
+  {
+    "id": "blade-一體-BsBr",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "BsBr",
+    "nameJap": "バイソンバロー",
+    "nameEng": "BisonBurrow",
+    "nameChi": "",
+    "nameAka": "野牛",
+    "stat": [
+      ""
+    ],
+    "desc": "（2026/10 DMMくじ中會推出）",
+    "attr": [
+      "sta",
+      "right",
+      "UX",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "BsBr",
+      "bsbr",
+      "blade",
+      "hasbro",
+      "bisonburrow",
+      "bison",
+      "burrow",
+      "バイソンバロー",
+      "野牛",
+      "sta",
+      "right",
+      "ux",
+      "fused"
+    ]
+  },
+  {
+    "id": "blade-一體-VkHc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "VkHc",
+    "nameJap": "ヴァイキングハック",
+    "nameEng": "VikingHack",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "",
+    "attr": [
+      "bal",
+      "right",
+      "UX"
+    ],
+    "from": "HlHm",
+    "searchTokens": [
+      "VkHc",
+      "vkhc",
+      "blade",
+      "hasbro",
+      "vikinghack",
+      "viking",
+      "hack",
+      "ヴァイキングハック",
+      "bal",
+      "right",
+      "ux"
+    ]
+  },
+  {
+    "id": "blade-一體-MdSt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "MdSt",
+    "nameJap": "メデューサスタン",
+    "nameEng": "MedusaStun",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "28-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "UX"
+    ],
+    "from": "ShSh",
+    "searchTokens": [
+      "MdSt",
+      "mdst",
+      "blade",
+      "hasbro",
+      "medusastun",
+      "medusa",
+      "stun",
+      "メデューサスタン",
+      "def",
+      "right",
+      "ux"
+    ]
+  },
+  {
+    "id": "blade-一體-KnYl",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "KnYl",
+    "nameJap": "コングエール",
+    "nameEng": "KongYell",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "31+"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX"
+    ],
+    "from": "WyGl",
+    "searchTokens": [
+      "KnYl",
+      "knyl",
+      "blade",
+      "hasbro",
+      "kongyell",
+      "kong",
+      "yell",
+      "コングエール",
+      "def",
+      "right",
+      "bx",
+      "c+",
+      "tier:c+",
+      "tier-c+"
+    ],
+    "tier": "C+"
+  },
+  {
+    "id": "blade-一體-DRS",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "DRS",
+    "nameJap": "ドライガースラッシュ",
+    "nameEng": "DrigerSlash",
+    "nameChi": "青翼白虎 銀牙烈虎S",
+    "nameAka": "",
+    "stat": [
+      "29-"
+    ],
+    "desc": "擁有圓形翼的兩枚刃兼備攻擊及防禦。（2000年發售的陀螺之X代復刻版）",
+    "attr": [
+      "bal",
+      "right",
+      "BSB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DRS",
+      "drs",
+      "blade",
+      "remake",
+      "drigerslash",
+      "driger",
+      "slash",
+      "ドライガースラッシュ",
+      "青翼白虎 銀牙烈虎S",
+      "青翼白虎",
+      "銀牙烈虎S",
+      "bal",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-DZS",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "DZS",
+    "nameJap": "ドランザースパイラル",
+    "nameEng": "DranzerSpiral",
+    "nameChi": "朱雀戰神 烈焰飛鳳S",
+    "nameAka": "",
+    "stat": [
+      "28-"
+    ],
+    "desc": "兩枚水平刃産生高攻擊力及持久力，是重視平衡的設計。（2000年發售的陀螺之X代復刻版）",
+    "attr": [
+      "bal",
+      "right",
+      "BSB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DZS",
+      "dzs",
+      "blade",
+      "remake",
+      "dranzerspiral",
+      "dranzer",
+      "spiral",
+      "ドランザースパイラル",
+      "朱雀戰神 烈焰飛鳳S",
+      "朱雀戰神",
+      "烈焰飛鳳S",
+      "bal",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-DGS",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "DGS",
+    "nameJap": "ドラグーンストーム",
+    "nameEng": "DragoonStorm",
+    "nameChi": "暴風戰龍 龍騎士S",
+    "nameAka": "",
+    "stat": [
+      "25="
+    ],
+    "desc": "左迴轉特化的四枚刃強力地撞走對手。（2000年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "left",
+      "BSB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DGS",
+      "dgs",
+      "blade",
+      "remake",
+      "dragoonstorm",
+      "dragoon",
+      "storm",
+      "ドラグーンストーム",
+      "暴風戰龍 龍騎士S",
+      "暴風戰龍",
+      "龍騎士S",
+      "att",
+      "left",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-DCS",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "DCS",
+    "nameJap": "ドラシエルシールド",
+    "nameEng": "DracielShield",
+    "nameChi": "青銅玄武 堅甲戰龜S",
+    "nameAka": "",
+    "stat": [
+      "28+"
+    ],
+    "desc": "外周的凹凸擅於反擊防禦。（2001年發售的陀螺之X代復刻版）",
+    "attr": [
+      "def",
+      "right",
+      "BSB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "DCS",
+      "dcs",
+      "blade",
+      "remake",
+      "dracielshield",
+      "draciel",
+      "shield",
+      "ドラシエルシールド",
+      "青銅玄武 堅甲戰龜S",
+      "青銅玄武",
+      "堅甲戰龜S",
+      "def",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-一體-SPg",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "SPg",
+    "nameJap": "ストームペガシス",
+    "nameEng": "Storm\\Pegasis",
+    "nameChi": "烈風\\天馬 暴風\\天馬",
+    "nameAka": "",
+    "stat": [
+      "31+"
+    ],
+    "desc": "Upper形狀三枚刃把對手撞走及給予傷害。（2009年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "right",
+      "MFB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "SPg",
+      "spg",
+      "blade",
+      "remake",
+      "storm\\pegasis",
+      "storm",
+      "pegasis",
+      "ストームペガシス",
+      "烈風\\天馬 暴風\\天馬",
+      "烈風",
+      "天馬",
+      "暴風",
+      "att",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-RLn",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "RLn",
+    "nameJap": "ロックレオーネ",
+    "nameEng": "Rock\\Leone",
+    "nameChi": "岩巖\\獅王 巨岩\\雄獅",
+    "nameAka": "",
+    "stat": [
+      "30-"
+    ],
+    "desc": "台形形狀六枚刃化解對手攻擊同時給予反擊。（2009年發售的陀螺之X代復刻版）",
+    "attr": [
+      "def",
+      "right",
+      "MFB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "RLn",
+      "rln",
+      "blade",
+      "remake",
+      "rock\\leone",
+      "rock",
+      "leone",
+      "ロックレオーネ",
+      "岩巖\\獅王 巨岩\\雄獅",
+      "岩巖",
+      "獅王",
+      "巨岩",
+      "雄獅",
+      "def",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-LLd_u",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "LLd_u",
+    "nameJap": "ライトニングエルドラゴ_アッパー",
+    "nameEng": "Lightning\\L-Drago_upper",
+    "nameChi": "雷霆\\魔龍_高空扣殺 雷霆\\天龍_強擊",
+    "nameAka": "",
+    "stat": [
+      "34-"
+    ],
+    "desc": "在三處配置向左的Upper刃，重視Upper攻擊。（2009年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "left",
+      "MFB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "LLd_u",
+      "lld_u",
+      "blade",
+      "remake",
+      "lightning\\l-drago_upper",
+      "lightning",
+      "l",
+      "drago",
+      "upper",
+      "ライトニングエルドラゴ_アッパー",
+      "雷霆\\魔龍_高空扣殺 雷霆\\天龍_強擊",
+      "雷霆",
+      "魔龍_高空扣殺",
+      "天龍_強擊",
+      "att",
+      "left",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-LLd_r",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "LLd_r",
+    "nameJap": "ライトニングエルドラゴ_連打",
+    "nameEng": "Lightning\\L-Drago_rush",
+    "nameChi": "雷霆\\魔龍_連環攻擊 雷霆\\天龍_連打",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "在三處配置向左的連打刃，重視連打攻擊。（2009年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "left",
+      "MFB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "LLd_r",
+      "lld_r",
+      "blade",
+      "remake",
+      "lightning\\l-drago_rush",
+      "lightning",
+      "l",
+      "drago",
+      "rush",
+      "ライトニングエルドラゴ_連打",
+      "雷霆\\魔龍_連環攻擊 雷霆\\天龍_連打",
+      "雷霆",
+      "魔龍_連環攻擊",
+      "天龍_連打",
+      "att",
+      "left",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-一體-S2",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "S2",
+    "nameJap": "ストームスプリガン",
+    "nameEng": "Storm\\Spriggan",
+    "nameChi": "暴風\\巨神",
+    "nameAka": "",
+    "stat": [
+      "31="
+    ],
+    "desc": "由強攻擊的上段兩枚刃與化解性防禦的下段兩枚刃組合而成，一併持有攻防兩方面的性能。（2016年發售的陀螺之X代復刻版）",
+    "attr": [
+      "bal",
+      "right",
+      "BBB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "S2",
+      "s2",
+      "blade",
+      "remake",
+      "storm\\spriggan",
+      "storm",
+      "spriggan",
+      "ストームスプリガン",
+      "暴風\\巨神",
+      "暴風",
+      "巨神",
+      "bal",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-一體-V2",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "V2",
+    "nameJap": "ビクトリーヴァルキリー",
+    "nameEng": "Victory\\Valkyrie",
+    "nameChi": "勝利\\武神 天翼\\戰神",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "三把大劍的強烈上段攻擊旨在Burst。（2016年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "right",
+      "BBB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "V2",
+      "v2",
+      "blade",
+      "remake",
+      "victory\\valkyrie",
+      "victory",
+      "valkyrie",
+      "ビクトリーヴァルキリー",
+      "勝利\\武神 天翼\\戰神",
+      "勝利",
+      "武神",
+      "天翼",
+      "戰神",
+      "att",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-一體-X2",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "remake",
+    "group": "remake",
+    "abbr": "X2",
+    "nameJap": "ゼノエクスカリバー",
+    "nameEng": "Xeno\\Xcalibur",
+    "nameChi": "異界\\聖劍 神力\\聖劍",
+    "nameAka": "",
+    "stat": [
+      "31-"
+    ],
+    "desc": "劍形大型一枚刃，擅於強烈地撞飛對手。（2016年發售的陀螺之X代復刻版）",
+    "attr": [
+      "att",
+      "right",
+      "BBB"
+    ],
+    "from": null,
+    "searchTokens": [
+      "X2",
+      "x2",
+      "blade",
+      "remake",
+      "xeno\\xcalibur",
+      "xeno",
+      "xcalibur",
+      "ゼノエクスカリバー",
+      "異界\\聖劍 神力\\聖劍",
+      "異界",
+      "聖劍",
+      "神力",
+      "att",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-一體-Iron",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Iron",
+    "nameJap": "アイアンマン",
+    "nameEng": "Ironman",
+    "nameChi": "鐵甲奇俠 鋼鐵人",
+    "nameAka": "",
+    "stat": [
+      "34-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "KnSh",
+    "searchTokens": [
+      "Iron",
+      "iron",
+      "blade",
+      "collab",
+      "ironman",
+      "アイアンマン",
+      "鐵甲奇俠 鋼鐵人",
+      "鐵甲奇俠",
+      "鋼鐵人",
+      "def",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Than",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Than",
+    "nameJap": "サノス",
+    "nameEng": "Thanos",
+    "nameChi": "魁隆 薩諾斯",
+    "nameAka": "",
+    "stat": [
+      "29+"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "KnLn",
+    "searchTokens": [
+      "Than",
+      "than",
+      "blade",
+      "collab",
+      "thanos",
+      "サノス",
+      "魁隆 薩諾斯",
+      "魁隆",
+      "薩諾斯",
+      "def",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Redh",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Redh",
+    "nameJap": "レッド・ハルク",
+    "nameEng": "Red Hulk",
+    "nameChi": "紅浩克",
+    "nameAka": "",
+    "stat": [
+      "36+"
+    ],
+    "desc": "",
+    "attr": [
+      "att",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "TyBt",
+    "searchTokens": [
+      "Redh",
+      "redh",
+      "blade",
+      "collab",
+      "red hulk",
+      "red",
+      "hulk",
+      "レッド・ハルク",
+      "紅浩克",
+      "att",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Capt",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Capt",
+    "nameJap": "キャプテン・アメリカ",
+    "nameEng": "Captain America",
+    "nameChi": "美國隊長",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "",
+    "attr": [
+      "att",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "DrSw",
+    "searchTokens": [
+      "Capt",
+      "capt",
+      "blade",
+      "collab",
+      "captain america",
+      "captain",
+      "america",
+      "キャプテン・アメリカ",
+      "美國隊長",
+      "att",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Spid",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Spid",
+    "nameJap": "スパイダーマン",
+    "nameEng": "Spiderman",
+    "nameChi": "蜘蛛俠 蜘蛛人",
+    "nameAka": "",
+    "stat": [
+      "33="
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "VpTl",
+    "searchTokens": [
+      "Spid",
+      "spid",
+      "blade",
+      "collab",
+      "spiderman",
+      "スパイダーマン",
+      "蜘蛛俠 蜘蛛人",
+      "蜘蛛俠",
+      "蜘蛛人",
+      "sta",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Veno",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Veno",
+    "nameJap": "ヴェノム",
+    "nameEng": "Venom",
+    "nameChi": "毒魔 猛毒",
+    "nameAka": "",
+    "stat": [
+      "34+"
+    ],
+    "desc": "",
+    "attr": [
+      "att",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "DrSw",
+    "searchTokens": [
+      "Veno",
+      "veno",
+      "blade",
+      "collab",
+      "venom",
+      "ヴェノム",
+      "毒魔 猛毒",
+      "毒魔",
+      "猛毒",
+      "att",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Mile",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Mile",
+    "nameJap": "マイルズ・モラレス",
+    "nameEng": "Miles Morales",
+    "nameChi": "終極蜘蛛人",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "WzAr",
+    "searchTokens": [
+      "Mile",
+      "mile",
+      "blade",
+      "collab",
+      "miles morales",
+      "miles",
+      "morales",
+      "マイルズ・モラレス",
+      "終極蜘蛛人",
+      "sta",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Gree",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Gree",
+    "nameJap": "グリーンゴブリン",
+    "nameEng": "Green Goblin",
+    "nameChi": "綠惡魔",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "marvel"
+    ],
+    "from": "WzAr",
+    "searchTokens": [
+      "Gree",
+      "gree",
+      "blade",
+      "collab",
+      "green goblin",
+      "green",
+      "goblin",
+      "グリーンゴブリン",
+      "綠惡魔",
+      "sta",
+      "right",
+      "bx",
+      "marvel"
+    ]
+  },
+  {
+    "id": "blade-一體-Luke",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Luke",
+    "nameJap": "ルーク・スカイウォーカー",
+    "nameEng": "Luke Skywalker",
+    "nameChi": "路克天行者",
+    "nameAka": "",
+    "stat": [
+      "31+"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "KnSh",
+    "searchTokens": [
+      "Luke",
+      "luke",
+      "blade",
+      "collab",
+      "luke skywalker",
+      "skywalker",
+      "ルーク・スカイウォーカー",
+      "路克天行者",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Dart",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Dart",
+    "nameJap": "ダース・ベイダー",
+    "nameEng": "Darth Vader",
+    "nameChi": "達斯維達",
+    "nameAka": "",
+    "stat": [
+      "31-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "KnLn",
+    "searchTokens": [
+      "Dart",
+      "dart",
+      "blade",
+      "collab",
+      "darth vader",
+      "darth",
+      "vader",
+      "ダース・ベイダー",
+      "達斯維達",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Mand",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Mand",
+    "nameJap": "マンダロリアン",
+    "nameEng": "The Mandalorian",
+    "nameChi": "曼達洛人",
+    "nameAka": "",
+    "stat": [
+      "31-"
+    ],
+    "desc": "",
+    "attr": [
+      "bal",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "LnCl",
+    "searchTokens": [
+      "Mand",
+      "mand",
+      "blade",
+      "collab",
+      "the mandalorian",
+      "the",
+      "mandalorian",
+      "マンダロリアン",
+      "曼達洛人",
+      "bal",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Moff",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Moff",
+    "nameJap": "モフ・ギデオン",
+    "nameEng": "Moff Gideon",
+    "nameChi": "星區長吉迪恩",
+    "nameAka": "",
+    "stat": [
+      "31="
+    ],
+    "desc": "",
+    "attr": [
+      "bal",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "HlSc",
+    "searchTokens": [
+      "Moff",
+      "moff",
+      "blade",
+      "collab",
+      "moff gideon",
+      "gideon",
+      "モフ・ギデオン",
+      "星區長吉迪恩",
+      "bal",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Gene",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Gene",
+    "nameJap": "グリーヴァス将軍",
+    "nameEng": "General Grievous",
+    "nameChi": "葛里維斯將軍",
+    "nameAka": "",
+    "stat": [
+      "31="
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "Gene",
+      "gene",
+      "blade",
+      "collab",
+      "general grievous",
+      "general",
+      "grievous",
+      "グリーヴァス将軍",
+      "葛里維斯將軍",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Obiw",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Obiw",
+    "nameJap": "オビ＝ワン・ケノービ",
+    "nameEng": "Obi-Wan Kenobi",
+    "nameChi": "歐比王",
+    "nameAka": "",
+    "stat": [
+      "31-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "KnLn",
+    "searchTokens": [
+      "Obiw",
+      "obiw",
+      "blade",
+      "collab",
+      "obi-wan kenobi",
+      "obi",
+      "wan",
+      "kenobi",
+      "オビ＝ワン・ケノービ",
+      "歐比王",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Chew",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Chew",
+    "nameJap": "チューバッカ",
+    "nameEng": "Chewbacca",
+    "nameChi": "丘巴卡",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "ShDr",
+    "searchTokens": [
+      "Chew",
+      "chew",
+      "blade",
+      "collab",
+      "chewbacca",
+      "チューバッカ",
+      "丘巴卡",
+      "sta",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Stor",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Stor",
+    "nameJap": "ストームトルーパー",
+    "nameEng": "Stormtrooper",
+    "nameChi": "風暴兵",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "Stor",
+      "stor",
+      "blade",
+      "collab",
+      "stormtrooper",
+      "ストームトルーパー",
+      "風暴兵",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Grog",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Grog",
+    "nameJap": "グローグー",
+    "nameEng": "Grogu",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "Grog",
+      "grog",
+      "blade",
+      "collab",
+      "grogu",
+      "グローグー",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Snow",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Snow",
+    "nameJap": "スノートルーパー",
+    "nameEng": "Snowtrooper",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "34-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "star-wars"
+    ],
+    "from": "RhHr",
+    "searchTokens": [
+      "Snow",
+      "snow",
+      "blade",
+      "collab",
+      "snowtrooper",
+      "スノートルーパー",
+      "def",
+      "right",
+      "bx",
+      "star-wars"
+    ]
+  },
+  {
+    "id": "blade-一體-Opme",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Opme",
+    "nameJap": "オプティマスプライム",
+    "nameEng": "Optimus Prime",
+    "nameChi": "柯柏文 柯博文",
+    "nameAka": "",
+    "stat": [
+      "33="
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "KnSh",
+    "searchTokens": [
+      "Opme",
+      "opme",
+      "blade",
+      "collab",
+      "optimus prime",
+      "optimus",
+      "prime",
+      "オプティマスプライム",
+      "柯柏文 柯博文",
+      "柯柏文",
+      "柯博文",
+      "def",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-一體-Mega",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Mega",
+    "nameJap": "メガトロン",
+    "nameEng": "Megatron",
+    "nameChi": "麥加登 密卡登",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "",
+    "attr": [
+      "bal",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "HlSc",
+    "searchTokens": [
+      "Mega",
+      "mega",
+      "blade",
+      "collab",
+      "megatron",
+      "メガトロン",
+      "麥加登 密卡登",
+      "麥加登",
+      "密卡登",
+      "bal",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-一體-Opal",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Opal",
+    "nameJap": "オプティマスプライマル",
+    "nameEng": "Optimus Primal",
+    "nameChi": "奧狄武 金剛王",
+    "nameAka": "",
+    "stat": [
+      "36-"
+    ],
+    "desc": "",
+    "attr": [
+      "att",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "ShEd",
+    "searchTokens": [
+      "Opal",
+      "opal",
+      "blade",
+      "collab",
+      "optimus primal",
+      "optimus",
+      "primal",
+      "オプティマスプライマル",
+      "奧狄武 金剛王",
+      "奧狄武",
+      "金剛王",
+      "att",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-一體-Star",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Star",
+    "nameJap": "スタースクリーム",
+    "nameEng": "Starscream",
+    "nameChi": "星星叫 天王星",
+    "nameAka": "",
+    "stat": [
+      "30+"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "WzAr",
+    "searchTokens": [
+      "Star",
+      "star",
+      "blade",
+      "collab",
+      "starscream",
+      "スタースクリーム",
+      "星星叫 天王星",
+      "星星叫",
+      "天王星",
+      "sta",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-一體-Bumb",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Bumb",
+    "nameJap": "バンブルビー",
+    "nameEng": "Bumblebee",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "",
+    "attr": [
+      "def",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "KnSh",
+    "searchTokens": [
+      "Bumb",
+      "bumb",
+      "blade",
+      "collab",
+      "bumblebee",
+      "バンブルビー",
+      "def",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-一體-Shoc",
+    "type": "blade",
+    "line": "一體",
+    "subtype": "collab",
+    "group": "collab",
+    "abbr": "Shoc",
+    "nameJap": "ショックウェーブ",
+    "nameEng": "Shockwave",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right",
+      "BX",
+      "transformers"
+    ],
+    "from": "VpTl",
+    "searchTokens": [
+      "Shoc",
+      "shoc",
+      "blade",
+      "collab",
+      "shockwave",
+      "ショックウェーブ",
+      "sta",
+      "right",
+      "bx",
+      "transformers"
+    ]
+  },
+  {
+    "id": "blade-CX-over-P",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "over",
+    "group": "over",
+    "abbr": "P",
+    "nameJap": "ピーク",
+    "nameEng": "Peak",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3+"
+    ],
+    "desc": "重量集中在一處的形狀可調整Blade的重心。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "P",
+      "p",
+      "blade",
+      "over",
+      "peak",
+      "ピーク",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-over-B",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "over",
+    "group": "over",
+    "abbr": "B",
+    "nameJap": "ブレイク",
+    "nameEng": "Break",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "4-"
+    ],
+    "desc": "重心偏側提高撞擊性能。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "B",
+      "b",
+      "blade",
+      "over",
+      "break",
+      "ブレイク",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-over-G",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "over",
+    "group": "over",
+    "abbr": "G",
+    "nameJap": "ガード",
+    "nameEng": "Guard",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3+"
+    ],
+    "desc": "三枚大型刃以向上配置，把對手的Smash攻擊撞回，實現強力反擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "G",
+      "g",
+      "blade",
+      "over",
+      "guard",
+      "ガード",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-over-F",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "over",
+    "group": "over",
+    "abbr": "F",
+    "nameJap": "フロー",
+    "nameEng": "Flow",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "4-"
+    ],
+    "desc": "薄且順滑的形狀減輕空氣抵抗，維持迴轉力。",
+    "attr": [
+      "sta",
+      "right",
+      "bbb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "F",
+      "f",
+      "blade",
+      "over",
+      "flow",
+      "フロー",
+      "sta",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-O",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "O",
+    "nameJap": "オッド",
+    "nameEng": "Odd",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-"
+    ],
+    "desc": "非對稱構造一併持有連打攻擊刃及圓形化解刃。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "O",
+      "o",
+      "blade",
+      "assist",
+      "odd",
+      "オッド",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-K",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "K",
+    "nameJap": "ナックル",
+    "nameEng": "Knuckle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5=",
+      100
+    ],
+    "desc": "五枚刃中的一枚有重擊點，提升撞擊性能。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "K",
+      "k",
+      "blade",
+      "assist",
+      "knuckle",
+      "ナックル",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-V",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "V",
+    "nameJap": "ヴァーチカル",
+    "nameEng": "Vertical",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5+",
+      110
+    ],
+    "desc": "向下方伸出的十二枚垂直刃阻止對Ratchet的攻擊，提高Burst抵耐性。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "V",
+      "v",
+      "blade",
+      "assist",
+      "vertical",
+      "ヴァーチカル",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-E",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "E",
+    "nameJap": "イレイズ",
+    "nameEng": "Erase",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6=",
+      120
+    ],
+    "desc": "順滑連打刃使持久損失最小化，同時能活用持久力作連續攻擊。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "E",
+      "e",
+      "blade",
+      "assist",
+      "erase",
+      "イレイズ",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-H",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "H",
+    "nameJap": "ヘビー",
+    "nameEng": "Heavy",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "8-",
+      100
+    ],
+    "desc": "搭載金屬零件以提高離心力的低處六枚刃，強化打擊力及安定性。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "H",
+      "h",
+      "blade",
+      "assist",
+      "heavy",
+      "ヘビー",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-F",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "F",
+    "nameJap": "フリー",
+    "nameEng": "Free",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6-",
+      110
+    ],
+    "desc": "外周Free Ring能迴轉，卸開攻擊以維持持久。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "F",
+      "f",
+      "blade",
+      "assist",
+      "free",
+      "フリー",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-D",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "D",
+    "nameJap": "デュアル",
+    "nameEng": "Dual",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6=",
+      110
+    ],
+    "desc": "把外周的刃反轉可切換至Upper或Smash模式。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "D",
+      "d",
+      "blade",
+      "assist",
+      "dual",
+      "デュアル",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-M",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "M",
+    "nameJap": "マッシブ",
+    "nameEng": "Massive",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5+",
+      110
+    ],
+    "desc": "大徑幅Smash形狀五枚刃的連打擅於令對手姿勢崩倒。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "M",
+      "m",
+      "blade",
+      "assist",
+      "massive",
+      "マッシブ",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-W",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "W",
+    "nameJap": "ウィール",
+    "nameEng": "Wheel",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7=",
+      130
+    ],
+    "desc": "有厚度的圓柱形狀刃持續地把從任何高度而來的攻擊都化解。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "W",
+      "w",
+      "blade",
+      "assist",
+      "wheel",
+      "ウィール",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-A",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "A",
+    "nameJap": "アサルト",
+    "nameEng": "Assault",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5=",
+      110
+    ],
+    "desc": "有厚度的三枚刃實現高撞擊性能。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "A",
+      "a",
+      "blade",
+      "assist",
+      "assault",
+      "アサルト",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-J",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "J",
+    "nameJap": "ジャギー",
+    "nameEng": "Jaggy",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-",
+      100
+    ],
+    "desc": "向下擴闊的低重心九枚刃擅於如下潛的連打攻擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "J",
+      "j",
+      "blade",
+      "assist",
+      "jaggy",
+      "ジャギー",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-S",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "S",
+    "nameJap": "スラッシュ",
+    "nameEng": "Slash",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-",
+      100
+    ],
+    "desc": "高度較低的高撞擊性能三枚刃，擅於善用低重心的攻擊性能。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "S",
+      "s",
+      "blade",
+      "assist",
+      "slash",
+      "スラッシュ",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-T",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "T",
+    "nameJap": "ターン",
+    "nameEng": "Turn",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6-",
+      110
+    ],
+    "desc": "把外周的刃反轉可切換至連擊或化解模式。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "T",
+      "t",
+      "blade",
+      "assist",
+      "turn",
+      "ターン",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-C",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "C",
+    "nameJap": "チャージ",
+    "nameEng": "Charge",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5=",
+      110
+    ],
+    "desc": "小徑三枚刃以内重心令安定性優秀。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "C",
+      "c",
+      "blade",
+      "assist",
+      "charge",
+      "チャージ",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-B",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "B",
+    "nameJap": "バンパー",
+    "nameEng": "Bumper",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5+",
+      110
+    ],
+    "desc": "容易吸收衝擊的阻尼器形狀的刃緩和並卸走對手攻擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "B",
+      "b",
+      "blade",
+      "assist",
+      "bumper",
+      "バンパー",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-R",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "R",
+    "nameJap": "ラウンド",
+    "nameEng": "Round",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-",
+      110
+    ],
+    "desc": "内側鏤空的圓形刃提升Blade的離心力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "R",
+      "r",
+      "blade",
+      "assist",
+      "round",
+      "ラウンド",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-assist-Z",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "assist",
+    "group": "assist",
+    "abbr": "Z",
+    "nameJap": "ジリオン",
+    "nameEng": "Zillion",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-",
+      130
+    ],
+    "desc": "排列成圓形的重厚十二枚刃把攻擊撞開及抵耐。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Z",
+      "z",
+      "blade",
+      "assist",
+      "zillion",
+      "ジリオン",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Un",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Un",
+    "nameJap": "ユニコーン",
+    "nameEng": "Unicorn",
+    "nameChi": "獨角",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Un",
+      "un",
+      "blade",
+      "chip",
+      "unicorn",
+      "ユニコーン",
+      "獨角",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Ev",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Ev",
+    "nameJap": "エヴァ",
+    "nameEng": "Eva",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "（共有三款）",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Ev",
+      "ev",
+      "blade",
+      "chip",
+      "eva",
+      "エヴァ",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Rg",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Rg",
+    "nameJap": "ラグナ",
+    "nameEng": "Ragna",
+    "nameChi": "邪神",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "bbb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Rg",
+      "rg",
+      "blade",
+      "chip",
+      "ragna",
+      "ラグナ",
+      "邪神",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Kn",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Kn",
+    "nameJap": "ナイト",
+    "nameEng": "Knight",
+    "nameChi": "騎士",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Kn",
+      "kn",
+      "blade",
+      "chip",
+      "knight",
+      "ナイト",
+      "騎士",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Bh",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Bh",
+    "nameJap": "バハムート",
+    "nameEng": "Bahamut",
+    "nameChi": "龍王",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Bh",
+      "bh",
+      "blade",
+      "chip",
+      "bahamut",
+      "バハムート",
+      "龍王",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Ph",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Ph",
+    "nameJap": "フェニックス",
+    "nameEng": "Phoenix",
+    "nameChi": "鳳凰",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Ph",
+      "ph",
+      "blade",
+      "chip",
+      "phoenix",
+      "フェニックス",
+      "鳳凰",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Em",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Em",
+    "nameJap": "エンペラー",
+    "nameEng": "Emperor",
+    "nameChi": "帝皇",
+    "nameAka": "",
+    "stat": [
+      "5-"
+    ],
+    "desc": "金屬零件增加重量。",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Em",
+      "em",
+      "blade",
+      "chip",
+      "emperor",
+      "エンペラー",
+      "帝皇",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Wl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Wl",
+    "nameJap": "ウルフ",
+    "nameEng": "Wolf",
+    "nameChi": "戰狼 銀狼",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Wl",
+      "wl",
+      "blade",
+      "chip",
+      "wolf",
+      "ウルフ",
+      "戰狼 銀狼",
+      "戰狼",
+      "銀狼",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Sl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Sl",
+    "nameJap": "ソル",
+    "nameEng": "Sol",
+    "nameChi": "天陽 焰神",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Sl",
+      "sl",
+      "blade",
+      "chip",
+      "sol",
+      "ソル",
+      "天陽 焰神",
+      "天陽",
+      "焰神",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Vl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Vl",
+    "nameJap": "ワルキューレ",
+    "nameEng": "Valkyrie",
+    "nameChi": "戰神",
+    "nameAka": "",
+    "stat": [
+      "6-"
+    ],
+    "desc": "金屬零件增加重量。",
+    "attr": [
+      "right",
+      "bbb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Vl",
+      "vl",
+      "blade",
+      "chip",
+      "valkyrie",
+      "ワルキューレ",
+      "戰神",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Pg",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Pg",
+    "nameJap": "ペガサス",
+    "nameEng": "Pegasus",
+    "nameChi": "天馬",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Pg",
+      "pg",
+      "blade",
+      "chip",
+      "pegasus",
+      "ペガサス",
+      "天馬",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Cr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Cr",
+    "nameJap": "ケルベロス",
+    "nameEng": "Cerberus",
+    "nameChi": "地獄犬 魔犬",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Cr",
+      "cr",
+      "blade",
+      "chip",
+      "cerberus",
+      "ケルベロス",
+      "地獄犬 魔犬",
+      "地獄犬",
+      "魔犬",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Wh",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Wh",
+    "nameJap": "ホエール",
+    "nameEng": "Whale",
+    "nameChi": "戰鯨 巨鯨",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Wh",
+      "wh",
+      "blade",
+      "chip",
+      "whale",
+      "ホエール",
+      "戰鯨 巨鯨",
+      "戰鯨",
+      "巨鯨",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Ln",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Ln",
+    "nameJap": "レオン",
+    "nameEng": "Leon",
+    "nameChi": "獅王 雄獅",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Ln",
+      "ln",
+      "blade",
+      "chip",
+      "leon",
+      "レオン",
+      "獅王 雄獅",
+      "獅王",
+      "雄獅",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Fx",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Fx",
+    "nameJap": "フォックス",
+    "nameEng": "Fox",
+    "nameChi": "妖狐 極狐",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Fx",
+      "fx",
+      "blade",
+      "chip",
+      "fox",
+      "フォックス",
+      "妖狐 極狐",
+      "妖狐",
+      "極狐",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Hl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Hl",
+    "nameJap": "ヘルズ",
+    "nameEng": "Hells",
+    "nameChi": "煉獄 惡魔",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Hl",
+      "hl",
+      "blade",
+      "chip",
+      "hells",
+      "ヘルズ",
+      "煉獄 惡魔",
+      "煉獄",
+      "惡魔",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Rh",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Rh",
+    "nameJap": "ライノ",
+    "nameEng": "Rhino",
+    "nameChi": "犀牛 戰犀",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Rh",
+      "rh",
+      "blade",
+      "chip",
+      "rhino",
+      "ライノ",
+      "犀牛 戰犀",
+      "犀牛",
+      "戰犀",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Dr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Dr",
+    "nameJap": "ドラン",
+    "nameEng": "Dran",
+    "nameChi": "翔龍 蒼龍",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Dr",
+      "dr",
+      "blade",
+      "chip",
+      "dran",
+      "ドラン",
+      "翔龍 蒼龍",
+      "翔龍",
+      "蒼龍",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Wz",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Wz",
+    "nameJap": "ウィザード",
+    "nameEng": "Wizard",
+    "nameChi": "巫師 魔導",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Wz",
+      "wz",
+      "blade",
+      "chip",
+      "wizard",
+      "ウィザード",
+      "巫師 魔導",
+      "巫師",
+      "魔導",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-chip-Pr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "chip",
+    "group": "chip",
+    "abbr": "Pr",
+    "nameJap": "ペルセウス",
+    "nameEng": "Perseus",
+    "nameChi": "英仙",
+    "nameAka": "",
+    "stat": [
+      "2-"
+    ],
+    "desc": "",
+    "attr": [
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Pr",
+      "pr",
+      "blade",
+      "chip",
+      "perseus",
+      "ペルセウス",
+      "英仙",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-metal-Dl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "metal",
+    "group": "metal",
+    "abbr": "Dl",
+    "nameJap": "デルタ",
+    "nameEng": "Delta",
+    "nameChi": "三極 極變",
+    "nameAka": "",
+    "stat": [
+      "28="
+    ],
+    "desc": "一併持有攻擊的刃及防禦的刃，左右形狀相異的兩枚刃。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Dl",
+      "dl",
+      "blade",
+      "metal",
+      "delta",
+      "デルタ",
+      "三極 極變",
+      "三極",
+      "極變",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-metal-Rg",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "metal",
+    "group": "metal",
+    "abbr": "Rg",
+    "nameJap": "レイジ",
+    "nameEng": "Rage",
+    "nameChi": "狂怒",
+    "nameAka": "",
+    "stat": [
+      "27+"
+    ],
+    "desc": "流線形滑順的刃化解對手攻擊，減低迴轉損失。",
+    "attr": [
+      "sta",
+      "right",
+      "bbb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Rg",
+      "rg",
+      "blade",
+      "metal",
+      "rage",
+      "レイジ",
+      "狂怒",
+      "sta",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-CX-metal-Fr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "metal",
+    "group": "metal",
+    "abbr": "Fr",
+    "nameJap": "フォートレス",
+    "nameEng": "Fortress",
+    "nameChi": "堡壘",
+    "nameAka": "",
+    "stat": [
+      "28-"
+    ],
+    "desc": "有高低差的形狀分散對手的攻擊，立體形狀的刃亦產生反擊。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Fr",
+      "fr",
+      "blade",
+      "metal",
+      "fortress",
+      "フォートレス",
+      "堡壘",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-metal-Bl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "metal",
+    "group": "metal",
+    "abbr": "Bl",
+    "nameJap": "ブリッツ",
+    "nameEng": "Blitz",
+    "nameChi": "閃擊",
+    "nameAka": "",
+    "stat": [
+      "30-"
+    ],
+    "desc": "高撞擊性能的重量級五枚刃，一併持有重心偏側的大型刃以提高重擊性能。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Bl",
+      "bl",
+      "blade",
+      "metal",
+      "blitz",
+      "ブリッツ",
+      "閃擊",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Fr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Fr",
+    "nameJap": "フレア",
+    "nameEng": "Flare",
+    "nameChi": "炎光 閃焰",
+    "nameAka": "",
+    "stat": [
+      "31="
+    ],
+    "desc": "高連打性能的具厚度十五枚刃令反擊性能優秀。",
+    "attr": [
+      "def",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Fr",
+      "fr",
+      "blade",
+      "main",
+      "flare",
+      "フレア",
+      "炎光 閃焰",
+      "炎光",
+      "閃焰",
+      "def",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Mg",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Mg",
+    "nameJap": "マイト",
+    "nameEng": "Might",
+    "nameChi": "霸權 威能",
+    "nameAka": "",
+    "stat": [
+      "33+"
+    ],
+    "desc": "在側面擁有多面銳角形狀的重量級八枚刃把對手迴轉力削弱。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Mg",
+      "mg",
+      "blade",
+      "main",
+      "might",
+      "マイト",
+      "霸權 威能",
+      "霸權",
+      "威能",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Hn",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Hn",
+    "nameJap": "ハント",
+    "nameEng": "Hunt",
+    "nameChi": "狩獵",
+    "nameAka": "",
+    "stat": [
+      "32-"
+    ],
+    "desc": "重量集中外周的圓滑形狀連打刃，既有高持久性能以及攻擊性能。",
+    "attr": [
+      "sta",
+      "right",
+      "bsb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Hn",
+      "hn",
+      "blade",
+      "main",
+      "hunt",
+      "ハント",
+      "狩獵",
+      "sta",
+      "right",
+      "bsb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Ec",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Ec",
+    "nameJap": "エクリプス",
+    "nameEng": "Eclipse",
+    "nameChi": "光噬 滅世",
+    "nameAka": "",
+    "stat": [
+      "32+"
+    ],
+    "desc": "反轉可切換模式：Upper模式擅於以五枚刃撞飛對手的攻擊、Smash模式擅於以十枚刃砸下對手攻擊的防禦。",
+    "attr": [
+      "bal",
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Ec",
+      "ec",
+      "blade",
+      "main",
+      "eclipse",
+      "エクリプス",
+      "光噬 滅世",
+      "光噬",
+      "滅世",
+      "bal",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Fl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Fl",
+    "nameJap": "フレイム",
+    "nameEng": "Flame",
+    "nameChi": "烈焰",
+    "nameAka": "",
+    "stat": [
+      "29="
+    ],
+    "desc": "滑順圓形減少空氣抵抗，持久性能優秀。",
+    "attr": [
+      "sta",
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Fl",
+      "fl",
+      "blade",
+      "main",
+      "flame",
+      "フレイム",
+      "烈焰",
+      "sta",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Bl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Bl",
+    "nameJap": "ブラスト",
+    "nameEng": "Blast",
+    "nameChi": "轟裂 爆擊",
+    "nameAka": "",
+    "stat": [
+      "33-"
+    ],
+    "desc": "流線形的厚重三枚刃擅於撞飛對手。",
+    "attr": [
+      "att",
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Bl",
+      "bl",
+      "blade",
+      "main",
+      "blast",
+      "ブラスト",
+      "轟裂 爆擊",
+      "轟裂",
+      "爆擊",
+      "att",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Vl",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Vl",
+    "nameJap": "ボルト",
+    "nameEng": "Volt",
+    "nameChi": "雷動 伏特",
+    "nameAka": "",
+    "stat": [
+      "31+"
+    ],
+    "desc": "兼備Smash形狀大型三枚刃與空力構造。",
+    "attr": [
+      "att",
+      "right",
+      "bbb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Vl",
+      "vl",
+      "blade",
+      "main",
+      "volt",
+      "ボルト",
+      "雷動 伏特",
+      "雷動",
+      "伏特",
+      "att",
+      "right",
+      "bbb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Fn",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Fn",
+    "nameJap": "ファング",
+    "nameEng": "Fang",
+    "nameChi": "獠牙",
+    "nameAka": "",
+    "stat": [
+      "30="
+    ],
+    "desc": "向下的鋸齒尖刺形四枚刃削弱對手持久。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Fn",
+      "fn",
+      "blade",
+      "main",
+      "fang",
+      "ファング",
+      "獠牙",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Bs",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Bs",
+    "nameJap": "ブラッシュ",
+    "nameEng": "Brush",
+    "nameChi": "兇尾 九尾",
+    "nameAka": "",
+    "stat": [
+      "30+"
+    ],
+    "desc": "一級級變大的九枚刃能連打同時強攻擊。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Bs",
+      "bs",
+      "blade",
+      "main",
+      "brush",
+      "ブラッシュ",
+      "兇尾 九尾",
+      "兇尾",
+      "九尾",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Rp",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Rp",
+    "nameJap": "リーパー",
+    "nameEng": "Reaper",
+    "nameChi": "死神 獵魂",
+    "nameAka": "",
+    "stat": [
+      "29="
+    ],
+    "desc": "有起伏的Smash形四枚刃以連打令對手姿勢崩倒。",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Rp",
+      "rp",
+      "blade",
+      "main",
+      "reaper",
+      "リーパー",
+      "死神 獵魂",
+      "死神",
+      "獵魂",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Dr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Dr",
+    "nameJap": "ダーク",
+    "nameEng": "Dark",
+    "nameChi": "幽暗 幽冥",
+    "nameAka": "",
+    "stat": [
+      "30+"
+    ],
+    "desc": "波浪形狀的連打六枚刃抵擋並撞回攻擊。",
+    "attr": [
+      "def",
+      "right",
+      "mfb"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Dr",
+      "dr",
+      "blade",
+      "main",
+      "dark",
+      "ダーク",
+      "幽暗 幽冥",
+      "幽暗",
+      "幽冥",
+      "def",
+      "right",
+      "mfb"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Ar",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Ar",
+    "nameJap": "アーク",
+    "nameEng": "Arc",
+    "nameChi": "弧光 至尊",
+    "nameAka": "",
+    "stat": [
+      "29+"
+    ],
+    "desc": "把金屬重量配置在外側的圓弧狀兩枚刃産生強離心力。",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Ar",
+      "ar",
+      "blade",
+      "main",
+      "arc",
+      "アーク",
+      "弧光 至尊",
+      "弧光",
+      "至尊",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-main-Br",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "main",
+    "group": "main",
+    "abbr": "Br",
+    "nameJap": "ブレイブ",
+    "nameEng": "Brave",
+    "nameChi": "勇者 勇氣",
+    "nameAka": "",
+    "stat": [
+      "31+"
+    ],
+    "desc": "三枚大形Upper刃加上了能産生Down force的空力構造。",
+    "attr": [
+      "att",
+      "right"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Br",
+      "br",
+      "blade",
+      "main",
+      "brave",
+      "ブレイブ",
+      "勇者 勇氣",
+      "勇者",
+      "勇氣",
+      "att",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-hasbro-Wr",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "Wr",
+    "nameJap": "リグル",
+    "nameEng": "Wriggle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "30-"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": "main.Ar",
+    "searchTokens": [
+      "Wr",
+      "wr",
+      "blade",
+      "hasbro",
+      "wriggle",
+      "リグル",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-hasbro-Ft",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "Ft",
+    "nameJap": "フォート",
+    "nameEng": "Fort",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "29="
+    ],
+    "desc": "",
+    "attr": [
+      "bal",
+      "right"
+    ],
+    "from": "main.Rp",
+    "searchTokens": [
+      "Ft",
+      "ft",
+      "blade",
+      "hasbro",
+      "fort",
+      "フォート",
+      "bal",
+      "right"
+    ]
+  },
+  {
+    "id": "blade-CX-hasbro-At",
+    "type": "blade",
+    "line": "CX",
+    "subtype": "hasbro",
+    "group": "hasbro",
+    "abbr": "At",
+    "nameJap": "アントラーズ",
+    "nameEng": "Antlers",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "29+"
+    ],
+    "desc": "",
+    "attr": [
+      "sta",
+      "right"
+    ],
+    "from": "main.Fl",
+    "searchTokens": [
+      "At",
+      "at",
+      "blade",
+      "hasbro",
+      "antlers",
+      "アントラーズ",
+      "sta",
+      "right"
+    ]
+  },
+  {
+    "id": "bit-A",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "A",
+    "nameJap": "アクセル",
+    "nameEng": "Accel",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      94,
+      122
+    ],
+    "desc": "由平坦軸端加上大型Gear組成，提高X Dash性能。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "A",
+      "a",
+      "bit",
+      "flat",
+      "accel",
+      "アクセル",
+      "att",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-RA",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "RA",
+    "nameJap": "",
+    "nameEng": "Rubber Accel",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3=",
+      16,
+      95,
+      123
+    ],
+    "desc": "提高接地摩擦，在對戰盤内高速跑動。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "RA",
+      "ra",
+      "bit",
+      "flat",
+      "rubber accel",
+      "rubber",
+      "accel",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-B",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "B",
+    "nameJap": "ボール",
+    "nameEng": "Ball",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      78,
+      124
+    ],
+    "desc": "球狀軸端以適度移動來躱避攻擊及實現高持久力。",
+    "attr": [
+      "sta"
+    ],
+    "from": null,
+    "searchTokens": [
+      "B",
+      "b",
+      "bit",
+      "round",
+      "ball",
+      "ボール",
+      "sta",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-DB",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "DB",
+    "nameJap": "",
+    "nameEng": "Disk Ball",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3+",
+      12,
+      77,
+      146
+    ],
+    "desc": "産生離心力及堅韌的迴轉。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "DB",
+      "db",
+      "bit",
+      "round",
+      "disk ball",
+      "disk",
+      "ball",
+      "t5",
+      "tier:t5",
+      "tier-t5"
+    ],
+    "tier": "T5"
+  },
+  {
+    "id": "bit-FB",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "FB",
+    "nameJap": "",
+    "nameEng": "Free Ball",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      76,
+      123
+    ],
+    "desc": "收細的球狀軸端減少迴轉力的損失。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "FB",
+      "fb",
+      "bit",
+      "round",
+      "free ball",
+      "free",
+      "ball",
+      "t0",
+      "tier:t0",
+      "tier-t0"
+    ],
+    "tier": "T0"
+  },
+  {
+    "id": "bit-GB",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "GB",
+    "nameJap": "",
+    "nameEng": "Gear Ball",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      123
+    ],
+    "desc": "使大型球狀軸亦能實現反擊。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GB",
+      "gb",
+      "bit",
+      "round",
+      "gear ball",
+      "gear",
+      "ball",
+      "t5",
+      "tier:t5",
+      "tier-t5"
+    ],
+    "tier": "T5"
+  },
+  {
+    "id": "bit-WB",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "WB",
+    "nameJap": "",
+    "nameEng": "Wall Ball",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      16,
+      76,
+      130
+    ],
+    "desc": "減低陀螺傾斜。球軸較小。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "WB",
+      "wb",
+      "bit",
+      "round",
+      "wall ball",
+      "wall",
+      "ball",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-C",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "C",
+    "nameJap": "サイクロン",
+    "nameEng": "Cyclone",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      123
+    ],
+    "desc": "渦形的平坦軸端在左迴轉時提高與對戰盤的緊咬度，能高速攻擊；右迴轉時則減輕與對戰盤的摩擦，能作高持久力的攻擊。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "C",
+      "c",
+      "bit",
+      "flat",
+      "cyclone",
+      "サイクロン",
+      "att",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-D",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "D",
+    "nameJap": "ドット",
+    "nameEng": "Dot",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      76,
+      123
+    ],
+    "desc": "在軸端的多數突起提高與對戰盤的摩擦，受攻擊時也難以被推走。",
+    "attr": [
+      "def"
+    ],
+    "from": null,
+    "searchTokens": [
+      "D",
+      "d",
+      "bit",
+      "sharp",
+      "dot",
+      "ドット",
+      "def",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-E",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "E",
+    "nameJap": "エレベート",
+    "nameEng": "Elevate",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3+",
+      12,
+      76,
+      118
+    ],
+    "desc": "附有大型Guide（移動引導物）的設計容易保持姿勢；X Dash時軸端浮上，可作Smash攻擊。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "E",
+      "e",
+      "bit",
+      "flat",
+      "elevate",
+      "エレベート",
+      "bal",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-F",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "F",
+    "nameJap": "フラット",
+    "nameEng": "Flat",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      123
+    ],
+    "desc": "平坦軸端令陀螺跑動，提高以X Dash決勝的容易度。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "F",
+      "f",
+      "bit",
+      "flat",
+      "フラット",
+      "att",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-FF",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "FF",
+    "nameJap": "",
+    "nameEng": "Free Flat",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      ""
+    ],
+    "desc": "少許變幼的平坦軸端既減輕持久損失也確保衝刺的速度。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "FF",
+      "ff",
+      "bit",
+      "flat",
+      "free flat",
+      "free",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-GF",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "GF",
+    "nameJap": "",
+    "nameEng": "Gear Flat",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      123
+    ],
+    "desc": "更容易勾住X Line，實現更高速的X Dash。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GF",
+      "gf",
+      "bit",
+      "flat",
+      "gear flat",
+      "gear",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-UF",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "UF",
+    "nameJap": "",
+    "nameEng": "Under Flat",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      102
+    ],
+    "desc": "能在更低位置攻擊。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "UF",
+      "uf",
+      "bit",
+      "flat",
+      "under flat",
+      "under",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-LF",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "LF",
+    "nameJap": "",
+    "nameEng": "Low Flat",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      113
+    ],
+    "desc": "提高X Dash的加速力。軸端的凹洞亦被填滿。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "LF",
+      "lf",
+      "bit",
+      "flat",
+      "low flat",
+      "low",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-G",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "G",
+    "nameJap": "グライド",
+    "nameEng": "Glide",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      76,
+      124
+    ],
+    "desc": "以低摩擦素材製的半球形軸端及其周圍容易使姿勢維持的形狀，實現高持久性能。",
+    "attr": [
+      "sta"
+    ],
+    "from": null,
+    "searchTokens": [
+      "G",
+      "g",
+      "bit",
+      "round",
+      "glide",
+      "グライド",
+      "sta",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-H",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "H",
+    "nameJap": "ヘキサ",
+    "nameEng": "Hexa",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      94,
+      122
+    ],
+    "desc": "軸端側面六個平面形狀抑制陀螺的傾斜，持續保持安定姿勢。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "H",
+      "h",
+      "bit",
+      "sharp",
+      "hexa",
+      "ヘキサ",
+      "bal",
+      "t0",
+      "tier:t0",
+      "tier-t0"
+    ],
+    "tier": "T0"
+  },
+  {
+    "id": "bit-I",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "I",
+    "nameJap": "イグニッション",
+    "nameEng": "Ignition",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      16,
+      94,
+      100
+    ],
+    "desc": "設有多個突起的大型圓筒形軸端強力抓向對戰盤，實現高速機動的攻擊。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "I",
+      "i",
+      "bit",
+      "flat",
+      "ignition",
+      "イグニッション",
+      "att",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-J",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "J",
+    "nameJap": "ジョルト",
+    "nameEng": "Jolt",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      94,
+      122
+    ],
+    "desc": "一併展現以幼細平坦軸端來壓抑持久損失的攻擊、及大型Gear的高速X Dash。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "J",
+      "j",
+      "bit",
+      "flat",
+      "jolt",
+      "ジョルト",
+      "att",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-K",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "K",
+    "nameJap": "キック",
+    "nameEng": "Kick",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      125
+    ],
+    "desc": "有角的軸端側面於對戰盤内踢蹴，實現連續攻擊或反擊防禦的動態。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "K",
+      "k",
+      "bit",
+      "flat",
+      "kick",
+      "キック",
+      "bal"
+    ]
+  },
+  {
+    "id": "bit-TK",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "TK",
+    "nameJap": "",
+    "nameEng": "Trans Kick",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      "112<>127"
+    ],
+    "desc": "軸端亦較幼細。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "TK",
+      "tk",
+      "bit",
+      "flat",
+      "trans kick",
+      "trans",
+      "kick",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-L",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "L",
+    "nameJap": "レベル",
+    "nameEng": "Level",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      94,
+      125
+    ],
+    "desc": "軸端有三級的高度，實現低速、中速、高速三種攻擊速度。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "L",
+      "l",
+      "bit",
+      "flat",
+      "level",
+      "レベル",
+      "att",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-M",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "M",
+    "nameJap": "マージ",
+    "nameEng": "Merge",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3+",
+      18,
+      94,
+      154
+    ],
+    "desc": "高摩擦的橡膠素材圍繞鈍角的尖軸端，抓力及持久力兼備。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "M",
+      "m",
+      "bit",
+      "sharp",
+      "merge",
+      "マージ",
+      "bal",
+      "t5",
+      "tier:t5",
+      "tier-t5"
+    ],
+    "tier": "T5"
+  },
+  {
+    "id": "bit-N",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "N",
+    "nameJap": "ニードル",
+    "nameEng": "Needle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      78,
+      123
+    ],
+    "desc": "尖鋭軸端令陀螺傾斜，提高反擊性能。",
+    "attr": [
+      "def"
+    ],
+    "from": null,
+    "searchTokens": [
+      "N",
+      "n",
+      "bit",
+      "sharp",
+      "needle",
+      "ニードル",
+      "def",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-HN",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "HN",
+    "nameJap": "",
+    "nameEng": "High Needle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      133
+    ],
+    "desc": "提高因傾斜的反擊力。軸端尖鋭度亦減低。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "HN",
+      "hn",
+      "bit",
+      "sharp",
+      "high needle",
+      "high",
+      "needle",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-GN",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "GN",
+    "nameJap": "",
+    "nameEng": "Gear Needle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      120
+    ],
+    "desc": "同時容易穩守對戰盤中央及X Dash。尖端亦較圓滑。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GN",
+      "gn",
+      "bit",
+      "sharp",
+      "gear needle",
+      "gear",
+      "needle",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-MN",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "MN",
+    "nameJap": "",
+    "nameEng": "Metal Needle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      12,
+      77,
+      124
+    ],
+    "desc": "以重量及減低的摩擦提高安定性。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "MN",
+      "mn",
+      "bit",
+      "sharp",
+      "metal needle",
+      "metal",
+      "needle",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-UN",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "UN",
+    "nameJap": "",
+    "nameEng": "Under Needle",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      77,
+      102
+    ],
+    "desc": "降低陀螺重心，以支援在低位置的反擊。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "UN",
+      "un",
+      "bit",
+      "sharp",
+      "under needle",
+      "under",
+      "needle",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-O",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "O",
+    "nameJap": "オーブ",
+    "nameEng": "Orb",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      78,
+      123
+    ],
+    "desc": "小型半球狀的軸端減低摩擦，提高持久性能。",
+    "attr": [
+      "sta"
+    ],
+    "from": null,
+    "searchTokens": [
+      "O",
+      "o",
+      "bit",
+      "round",
+      "orb",
+      "オーブ",
+      "sta",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-LO",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "LO",
+    "nameJap": "",
+    "nameEng": "Low Orb",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      77,
+      112
+    ],
+    "desc": "低重心化令持久性能向上。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "LO",
+      "lo",
+      "bit",
+      "round",
+      "low orb",
+      "low",
+      "orb"
+    ]
+  },
+  {
+    "id": "bit-P",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "P",
+    "nameJap": "ポイント",
+    "nameEng": "Point",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      124
+    ],
+    "desc": "在中心設有突起的平坦軸端，令動態由活躍變化為平靜的機動。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "P",
+      "p",
+      "bit",
+      "round",
+      "point",
+      "ポイント",
+      "bal",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-GP",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "GP",
+    "nameJap": "",
+    "nameEng": "Gear Point",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      124
+    ],
+    "desc": "實現巨大的動態變化。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GP",
+      "gp",
+      "bit",
+      "round",
+      "gear point",
+      "gear",
+      "point"
+    ]
+  },
+  {
+    "id": "bit-TP",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "TP",
+    "nameJap": "",
+    "nameEng": "Trans Point",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      "115<>130"
+    ],
+    "desc": "",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "TP",
+      "tp",
+      "bit",
+      "round",
+      "trans point",
+      "trans",
+      "point",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-Q",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "Q",
+    "nameJap": "クエイク",
+    "nameEng": "Quake",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      123
+    ],
+    "desc": "斜向切割形狀的軸端，四處跳躍地暴走，産生不規則的動態。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Q",
+      "q",
+      "bit",
+      "flat",
+      "quake",
+      "クエイク",
+      "att",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-R",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "R",
+    "nameJap": "ラッシュ",
+    "nameEng": "Rush",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      10,
+      94,
+      123
+    ],
+    "desc": "十枚刃Gear以壓抑X Dash的速度來增加衝刺次數。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "R",
+      "r",
+      "bit",
+      "flat",
+      "rush",
+      "ラッシュ",
+      "att",
+      "t0",
+      "tier:t0",
+      "tier-t0"
+    ],
+    "tier": "T0"
+  },
+  {
+    "id": "bit-GR",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "GR",
+    "nameJap": "",
+    "nameEng": "Gear Rush",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      123
+    ],
+    "desc": "提升勾住X Line的容易度。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GR",
+      "gr",
+      "bit",
+      "flat",
+      "gear rush",
+      "gear",
+      "rush",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-LR",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "LR",
+    "nameJap": "",
+    "nameEng": "Low Rush",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      10,
+      95,
+      113
+    ],
+    "desc": "擅長Upper攻擊。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "LR",
+      "lr",
+      "bit",
+      "flat",
+      "low rush",
+      "low",
+      "rush",
+      "t0",
+      "tier:t0",
+      "tier-t0"
+    ],
+    "tier": "T0"
+  },
+  {
+    "id": "bit-S",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "S",
+    "nameJap": "スパイク",
+    "nameEng": "Spike",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      77,
+      123
+    ],
+    "desc": "細小尖鋭的軸端持續穩守對戰盤中央，提高反擊機會。",
+    "attr": [
+      "def"
+    ],
+    "from": null,
+    "searchTokens": [
+      "S",
+      "s",
+      "bit",
+      "sharp",
+      "spike",
+      "スパイク",
+      "def",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-BS",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "BS",
+    "nameJap": "",
+    "nameEng": "Bound Spike",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      12,
+      76,
+      "123<>136"
+    ],
+    "desc": "吸收着地的衝擊。軸端亦稍為增大。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "BS",
+      "bs",
+      "bit",
+      "sharp",
+      "bound spike",
+      "bound",
+      "spike",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "bit-DS",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "DS",
+    "nameJap": "",
+    "nameEng": "Disk Spike",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      ""
+    ],
+    "desc": "（暫只在Hasbro產品中出現）",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "DS",
+      "ds",
+      "bit",
+      "sharp",
+      "disk spike",
+      "disk",
+      "spike"
+    ]
+  },
+  {
+    "id": "bit-T",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "T",
+    "nameJap": "テーパー",
+    "nameEng": "Taper",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      123
+    ],
+    "desc": "收細的軸端既有頭段的攻擊力及尾段的持久力。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "T",
+      "t",
+      "bit",
+      "flat",
+      "taper",
+      "テーパー",
+      "bal",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-HT",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "HT",
+    "nameJap": "",
+    "nameEng": "High Taper",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      133
+    ],
+    "desc": "兼備Smash力及持久力。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "HT",
+      "ht",
+      "bit",
+      "flat",
+      "high taper",
+      "high",
+      "taper",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-U",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "U",
+    "nameJap": "ユナイト",
+    "nameEng": "Unite",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      94,
+      123
+    ],
+    "desc": "球狀軸端的尖端磨平同時在中央設有突起，迴避、衝刺、反擊三種軌道都可能。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "U",
+      "u",
+      "bit",
+      "round",
+      "unite",
+      "ユナイト",
+      "bal",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-GU",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "GU",
+    "nameJap": "",
+    "nameEng": "Gear Unite",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      ""
+    ],
+    "desc": "",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "GU",
+      "gu",
+      "bit",
+      "round",
+      "gear unite",
+      "gear",
+      "unite",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-V",
+    "type": "bit",
+    "line": "",
+    "subtype": "flat",
+    "group": "flat",
+    "abbr": "V",
+    "nameJap": "ボルテックス",
+    "nameEng": "Vortex",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      12,
+      95,
+      123
+    ],
+    "desc": "渦形的粗大平坦軸端在右迴轉時提高與對戰盤的緊咬性，能高速攻擊。",
+    "attr": [
+      "att"
+    ],
+    "from": null,
+    "searchTokens": [
+      "V",
+      "v",
+      "bit",
+      "flat",
+      "vortex",
+      "ボルテックス",
+      "att",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-W",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "W",
+    "nameJap": "ウェッジ",
+    "nameEng": "Wedge",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2=",
+      10,
+      78,
+      127
+    ],
+    "desc": "鈍角的尖銳軸端難以傾斜；十枚齒X Dash時減輕持久損失。",
+    "attr": [
+      "def"
+    ],
+    "from": null,
+    "searchTokens": [
+      "W",
+      "w",
+      "bit",
+      "sharp",
+      "wedge",
+      "ウェッジ",
+      "def",
+      "t1",
+      "tier:t1",
+      "tier-t1"
+    ],
+    "tier": "T1"
+  },
+  {
+    "id": "bit-WW",
+    "type": "bit",
+    "line": "",
+    "subtype": "sharp",
+    "group": "sharp",
+    "abbr": "WW",
+    "nameJap": "",
+    "nameEng": "Wall Wedge",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "2+",
+      16,
+      78,
+      132
+    ],
+    "desc": "進一步減低陀螺傾斜。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "WW",
+      "ww",
+      "bit",
+      "sharp",
+      "wall wedge",
+      "wall",
+      "wedge",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-Y",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "Y",
+    "nameJap": "イールディング",
+    "nameEng": "Yielding",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "4+",
+      20,
+      78,
+      150
+    ],
+    "desc": "大型球狀軸端既有持久性能，四方向突出的重量器亦具姿勢制御性能。",
+    "attr": [
+      "sta"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Y",
+      "y",
+      "bit",
+      "round",
+      "yielding",
+      "イールディング",
+      "sta",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-Z",
+    "type": "bit",
+    "line": "",
+    "subtype": "round",
+    "group": "round",
+    "abbr": "Z",
+    "nameJap": "ザップ",
+    "nameEng": "Zap",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "3-",
+      16,
+      94,
+      115
+    ],
+    "desc": "大形Gear上一併擁有平軸帶來的活躍攻擊及中央突起帶來的平靜防守。",
+    "attr": [
+      "bal"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Z",
+      "z",
+      "bit",
+      "round",
+      "zap",
+      "ザップ",
+      "bal",
+      "t3",
+      "tier:t3",
+      "tier-t3"
+    ],
+    "tier": "T3"
+  },
+  {
+    "id": "bit-Op",
+    "type": "bit",
+    "line": "",
+    "subtype": "multi",
+    "group": "multi",
+    "abbr": "Op",
+    "nameJap": "オペレート",
+    "nameEng": "Operate",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "14+",
+      14,
+      "85<>80"
+    ],
+    "desc": "可選擇以化解性四枚刃及幼細軸端來抵耐攻擊的防禦模式、或以擁有空力構造的兩枚刃及粗大軸端來環迴的攻擊模式。",
+    "attr": [
+      "bal",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Op",
+      "op",
+      "bit",
+      "multi",
+      "operate",
+      "オペレート",
+      "bal",
+      "fused",
+      "t2",
+      "tier:t2",
+      "tier-t2"
+    ],
+    "tier": "T2"
+  },
+  {
+    "id": "bit-Tr",
+    "type": "bit",
+    "line": "",
+    "subtype": "multi",
+    "group": "multi",
+    "abbr": "Tr",
+    "nameJap": "ターボ",
+    "nameEng": "Turbo",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "13-",
+      16,
+      "90>65"
+    ],
+    "desc": "高速迴轉時以幼軸保持安定的動態；迴轉下降後變形至粗軸及再加速以作X Dash。調整發射力度能分別使用兩種狀態。",
+    "attr": [
+      "att",
+      "fused"
+    ],
+    "from": null,
+    "searchTokens": [
+      "Tr",
+      "tr",
+      "bit",
+      "multi",
+      "turbo",
+      "ターボ",
+      "att",
+      "fused",
+      "t4",
+      "tier:t4",
+      "tier-t4"
+    ],
+    "tier": "T4"
+  },
+  {
+    "id": "ratchet-0-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "0-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "0-60",
+      "ratchet",
+      "standard",
+      "0",
+      "60",
+      "0blade",
+      "height60",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "ratchet-0-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "0-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "0-70",
+      "ratchet",
+      "standard",
+      "0",
+      "70",
+      "0blade",
+      "height70",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "ratchet-0-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "0-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "8-"
+    ],
+    "desc": "採用容易抵受由水平方向而來之攻擊的零枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "0-80",
+      "ratchet",
+      "standard",
+      "0",
+      "80",
+      "0blade",
+      "height80",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "ratchet-1-50",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "1-50",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6-"
+    ],
+    "desc": "採用特化於攻擊性能的一枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "1-50",
+      "ratchet",
+      "standard",
+      "1",
+      "50",
+      "1blade",
+      "height50",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "ratchet-1-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "1-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6="
+    ],
+    "desc": "採用特化於攻擊性能的一枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "1-60",
+      "ratchet",
+      "standard",
+      "1",
+      "60",
+      "1blade",
+      "height60",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "ratchet-1-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "1-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用特化於攻擊性能的一枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "1-70",
+      "ratchet",
+      "standard",
+      "1",
+      "70",
+      "1blade",
+      "height70",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "ratchet-1-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "1-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用特化於攻擊性能的一枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "1-80",
+      "ratchet",
+      "standard",
+      "1",
+      "80",
+      "1blade",
+      "height80",
+      "d",
+      "tier:d",
+      "tier-d"
+    ],
+    "tier": "D"
+  },
+  {
+    "id": "ratchet-2-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "2-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "2-60",
+      "ratchet",
+      "standard",
+      "2",
+      "60",
+      "2blade",
+      "height60",
+      "e",
+      "tier:e",
+      "tier-e"
+    ],
+    "tier": "E"
+  },
+  {
+    "id": "ratchet-2-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "2-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "2-70",
+      "ratchet",
+      "standard",
+      "2",
+      "70",
+      "2blade",
+      "height70",
+      "e",
+      "tier:e",
+      "tier-e"
+    ],
+    "tier": "E"
+  },
+  {
+    "id": "ratchet-2-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "2-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "採用左迴轉時容易撞走對手、右迴轉時容易化解攻擊之形狀的兩枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "2-80",
+      "ratchet",
+      "standard",
+      "2",
+      "80",
+      "2blade",
+      "height80",
+      "e",
+      "tier:e",
+      "tier-e"
+    ],
+    "tier": "E"
+  },
+  {
+    "id": "ratchet-3-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "3-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用高撞擊性能的三枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "3-60",
+      "ratchet",
+      "standard",
+      "3",
+      "60",
+      "3blade",
+      "height60",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "ratchet-3-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "3-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用高撞擊性能的三枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "3-70",
+      "ratchet",
+      "standard",
+      "3",
+      "70",
+      "3blade",
+      "height70",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "ratchet-3-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "3-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "採用高撞擊性能的三枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "3-80",
+      "ratchet",
+      "standard",
+      "3",
+      "80",
+      "3blade",
+      "height80",
+      "d",
+      "tier:d",
+      "tier-d"
+    ],
+    "tier": "D"
+  },
+  {
+    "id": "ratchet-3-85",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "simple",
+    "group": "",
+    "abbr": "3-85",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-"
+    ],
+    "desc": "採用把攻擊化解的三枚刃。",
+    "attr": [
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "3-85",
+      "ratchet",
+      "simple",
+      "3",
+      "85",
+      "3blade",
+      "height85",
+      "d",
+      "tier:d",
+      "tier-d"
+    ],
+    "tier": "D"
+  },
+  {
+    "id": "ratchet-4-50",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "4-50",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6="
+    ],
+    "desc": "採用容易化解攻擊的四枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "4-50",
+      "ratchet",
+      "standard",
+      "4",
+      "50",
+      "4blade",
+      "height50",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "ratchet-4-55",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "simple",
+    "group": "",
+    "abbr": "4-55",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5-"
+    ],
+    "desc": "採用重心平衡良好的四枚刃。",
+    "attr": [
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "4-55",
+      "ratchet",
+      "simple",
+      "4",
+      "55",
+      "4blade",
+      "height55",
+      "c",
+      "tier:c",
+      "tier-c"
+    ],
+    "tier": "C"
+  },
+  {
+    "id": "ratchet-4-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "4-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用容易化解攻擊的四枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "4-60",
+      "ratchet",
+      "standard",
+      "4",
+      "60",
+      "4blade",
+      "height60",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "ratchet-4-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "4-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用容易化解攻擊的四枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "4-70",
+      "ratchet",
+      "standard",
+      "4",
+      "70",
+      "4blade",
+      "height70",
+      "d",
+      "tier:d",
+      "tier-d"
+    ],
+    "tier": "D"
+  },
+  {
+    "id": "ratchet-4-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "4-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "採用容易化解攻擊的四枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "4-80",
+      "ratchet",
+      "standard",
+      "4",
+      "80",
+      "4blade",
+      "height80",
+      "e",
+      "tier:e",
+      "tier-e"
+    ],
+    "tier": "E"
+  },
+  {
+    "id": "ratchet-5-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "5-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用厚及離心力優秀的五枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "5-60",
+      "ratchet",
+      "standard",
+      "5",
+      "60",
+      "5blade",
+      "height60",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "ratchet-5-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "5-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用厚及離心力優秀的五枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "5-70",
+      "ratchet",
+      "standard",
+      "5",
+      "70",
+      "5blade",
+      "height70",
+      "c",
+      "tier:c",
+      "tier-c"
+    ],
+    "tier": "C"
+  },
+  {
+    "id": "ratchet-5-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "5-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7+"
+    ],
+    "desc": "採用厚及離心力優秀的五枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "5-80",
+      "ratchet",
+      "standard",
+      "5",
+      "80",
+      "5blade",
+      "height80",
+      "e",
+      "tier:e",
+      "tier-e"
+    ],
+    "tier": "E"
+  },
+  {
+    "id": "ratchet-6-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "6-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "6-60",
+      "ratchet",
+      "standard",
+      "6",
+      "60",
+      "6blade",
+      "height60",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "ratchet-6-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "6-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "6-70",
+      "ratchet",
+      "standard",
+      "6",
+      "70",
+      "6blade",
+      "height70",
+      "c",
+      "tier:c",
+      "tier-c"
+    ],
+    "tier": "C"
+  },
+  {
+    "id": "ratchet-6-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "6-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7-"
+    ],
+    "desc": "採用由兩種交互配置的刃以提高撞擊性能的六枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "6-80",
+      "ratchet",
+      "standard",
+      "6",
+      "80",
+      "6blade",
+      "height80",
+      "d",
+      "tier:d",
+      "tier-d"
+    ],
+    "tier": "D"
+  },
+  {
+    "id": "ratchet-7-55",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "simple",
+    "group": "",
+    "abbr": "7-55",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "5+"
+    ],
+    "desc": "採用厚及防禦性能優秀的七枚刃。",
+    "attr": [
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "7-55",
+      "ratchet",
+      "simple",
+      "7",
+      "55",
+      "7blade",
+      "height55",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "ratchet-7-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "7-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "7-60",
+      "ratchet",
+      "standard",
+      "7",
+      "60",
+      "7blade",
+      "height60",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "ratchet-7-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "7-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7+"
+    ],
+    "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "7-70",
+      "ratchet",
+      "standard",
+      "7",
+      "70",
+      "7blade",
+      "height70",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "ratchet-7-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "7-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "8-"
+    ],
+    "desc": "採用厚及防禦性能優秀的垂直七枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "7-80",
+      "ratchet",
+      "standard",
+      "7",
+      "80",
+      "7blade",
+      "height80",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "ratchet-8-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "8-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "8-"
+    ],
+    "desc": "使用大徑及擅於強化離心力的八枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "8-70",
+      "ratchet",
+      "standard",
+      "8",
+      "70",
+      "8blade",
+      "height70",
+      "a",
+      "tier:a",
+      "tier-a"
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "ratchet-9-60",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "9-60",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "使用連打優秀的九枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "9-60",
+      "ratchet",
+      "standard",
+      "9",
+      "60",
+      "9blade",
+      "height60",
+      "x",
+      "tier:x",
+      "tier-x"
+    ],
+    "tier": "X"
+  },
+  {
+    "id": "ratchet-9-65",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "simple",
+    "group": "",
+    "abbr": "9-65",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "4+"
+    ],
+    "desc": "使用連打優秀的九枚刃。",
+    "attr": [
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "9-65",
+      "ratchet",
+      "simple",
+      "9",
+      "65",
+      "9blade",
+      "height65",
+      "c",
+      "tier:c",
+      "tier-c"
+    ],
+    "tier": "C"
+  },
+  {
+    "id": "ratchet-9-70",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "9-70",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "6+"
+    ],
+    "desc": "使用連打優秀的九枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "9-70",
+      "ratchet",
+      "standard",
+      "9",
+      "70",
+      "9blade",
+      "height70",
+      "s",
+      "tier:s",
+      "tier-s"
+    ],
+    "tier": "S"
+  },
+  {
+    "id": "ratchet-9-80",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "standard",
+    "group": "",
+    "abbr": "9-80",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "7="
+    ],
+    "desc": "使用連打優秀的九枚刃。",
+    "attr": [],
+    "from": null,
+    "searchTokens": [
+      "9-80",
+      "ratchet",
+      "standard",
+      "9",
+      "80",
+      "9blade",
+      "height80",
+      "b",
+      "tier:b",
+      "tier-b"
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "ratchet-M-85",
+    "type": "ratchet",
+    "line": "",
+    "subtype": "simple",
+    "group": "",
+    "abbr": "M-85",
+    "nameJap": "",
+    "nameEng": "",
+    "nameChi": "",
+    "nameAka": "",
+    "stat": [
+      "11-",
+      5,
+      85
+    ],
+    "desc": "金屬零件令重量增加。",
+    "attr": [
+      "simple"
+    ],
+    "from": null,
+    "searchTokens": [
+      "M-85",
+      "m-85",
+      "ratchet",
+      "simple",
+      "M",
+      "85",
+      "Mblade",
+      "height85",
+      "c",
+      "tier:c",
+      "tier-c"
+    ],
+    "tier": "C"
+  }
+]

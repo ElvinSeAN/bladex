@@ -24,6 +24,18 @@ npm run build
 npm run preview
 ```
 
+## Sync full BladeX data
+
+This app reads `public/data/display-data.json`.
+
+From the parent workspace (`bladeX/`), regenerate and copy the latest full dataset:
+
+```bash
+cd /Users/uonqq/Sayre/bladeX
+node scripts/transform.js
+cp public/data/display-data.json bladex/public/data/display-data.json
+```
+
 ## Deploy to GitHub Pages
 
 1. Push this folder as a GitHub repository.
